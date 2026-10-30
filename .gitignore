@@ -1,0 +1,9 @@
+data/Staging/
+data/Silver/
+data/Gold/
+.ipynb_checkpoints/
+__pycache__/
+.env
+.pytest_cache/
+credenciais/
+logs/

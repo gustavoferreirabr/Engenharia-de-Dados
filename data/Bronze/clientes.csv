@@ -1,0 +1,2016 @@
+﻿id_cliente,nome,idade,cidade,estado,data_cadastro
+1,Carla Silva,69.0,Curitiba,PR,2025-01-22
+2,Juliana Costa,27.0,Sao Paulo,BA,2025-02-19
+3,Gabriel Santos,61.0,Belo Horizonte,MG,2023-01-01
+4,Daniel Souza,48.0,Salvador,BA,2024-06-29
+5,Fernanda Santos,70.0,Sao Paulo,BA,2024-03-21
+6,Lucas Costa,40.0,Rio de Janeiro,RJ,2023-03-20
+7,Fernanda Silva,69.0,Belo Horizonte,MG,2023-08-24
+8,Juliana Oliveira,47.0,Belo Horizonte,MG,2023-11-30
+9,Fernanda Pereira,50.0,Belo Horizonte,MG,2025-06-07
+10,Juliana Pereira,74.0,Salvador,BA,2023-12-15
+11,Lucas Costa,69.0,Curitiba,PR,2023-04-08
+12,Carla Silva,26.0,Belo Horizonte,MG,2023-03-23
+13,Daniel Souza,71.0,Campinas,SP,2024-05-16
+14,Bruno Santos,64.0,Salvador,BA,2024-04-21
+15,Gabriel Santos,18.0,Rio de Janeiro,RJ,2025-07-15
+16,Bruno Santos,61.0,Curitiba,PR,2024-12-04
+17,Carla Souza,52.0,Campinas,SP,2025-02-03
+18,Gabriel Pereira,28.0,Campinas,SP,2025-07-09
+19,Fernanda Silva,,Rio de Janeiro,RJ,2024-07-03
+20,Lucas Souza,33.0,Curitiba,PR,2023-01-14
+21,Lucas Santos,26.0,Salvador,BA,2024-01-27
+22,Ana Costa,49.0,São Paulo,SP,2023-12-13
+23,Carla Oliveira,32.0,Curitiba,PR,2023-11-06
+24,Carla Souza,29.0,Rio de Janeiro,RJ,2024-01-21
+25,Daniel Souza,50.0,Campinas,SP,2023-07-28
+26,Bruno Silva,62.0,Salvador,BA,2023-12-23
+27,Carla Silva,31.0,Curitiba,PR,2024-08-23
+28,Carla Souza,74.0,São Paulo,SP,2024-07-21
+29,Fernanda Santos,74.0,São Paulo,SP,2023-04-04
+30,Fernanda Oliveira,25.0,Belo Horizonte,MG,2023-04-03
+31,Gabriel Silva,25.0,Belo Horizonte,MG,2023-12-06
+32,Juliana Santos,44.0,Rio de Janeiro,RJ,2024-08-19
+33,Juliana Costa,79.0,Curitiba,PR,2024-03-20
+34,Ana Silva,29.0, sao paulo ,PR,2025-01-26
+35,Juliana Santos,18.0,Campinas,SP,2023-01-22
+36,Daniel Santos,60.0,Campinas,SP,2023-10-18
+37,Ana Oliveira,57.0,Campinas,SP,2024-04-29
+38,Gabriel Oliveira,59.0,Belo Horizonte,MG,2025-02-22
+39,Fernanda Costa,79.0,Curitiba,PR,2023-11-02
+40,Juliana Santos,68.0,Curitiba,PR,2024-09-25
+41,Bruno Pereira,28.0,São Paulo,SP,2023-05-08
+42,Fernanda Santos,56.0,Belo Horizonte,MG,2024-09-16
+43,Lucas Oliveira,60.0,Salvador,BA,2025-07-27
+44,Daniel Pereira,48.0,Belo Horizonte,MG,2023-09-30
+45,Fernanda Silva,34.0,Salvador,BA,2025-04-27
+46,Daniel Silva,50.0,São Paulo,SP,2024-03-17
+47,Daniel Souza,49.0,Rio de Janeiro,RJ,2024-05-17
+48,Daniel Oliveira,75.0,Curitiba,PR,2023-05-10
+49,Gabriel Souza,46.0,São Paulo,SP,2023-05-12
+50,Daniel Pereira,38.0,Curitiba,PR,2024-08-19
+51,Daniel Oliveira,38.0,Campinas,SP,2025-07-23
+52,Lucas Costa,57.0,Rio de Janeiro,RJ,2024-04-26
+53,Bruno Santos,40.0,Rio de Janeiro,RJ,2025-05-11
+54,Ana Costa,73.0,São Paulo,SP,2024-01-25
+55,Carla Pereira,23.0,Rio de Janeiro,RJ,2024-08-15
+56,Lucas Oliveira,39.0,Salvador,BA,2023-11-21
+57,Ana Pereira,67.0,Rio de Janeiro,RJ,2023-03-10
+58,Daniel Santos,55.0,Curitiba,PR,2024-10-21
+59,Bruno Silva,54.0,Curitiba,PR,2024-03-23
+60,Fernanda Silva,62.0,Curitiba,PR,2024-06-11
+61,Bruno Pereira,68.0,Curitiba,PR,2025-03-29
+62,Lucas Souza,71.0,Salvador,BA,2024-09-08
+63,Daniel Oliveira,25.0,Belo Horizonte,MG,2023-06-14
+64,Bruno Oliveira,58.0,Campinas,SP,2024-05-02
+65,Juliana Silva,66.0,São Paulo,SP,2024-12-13
+66,Bruno Costa,52.0,Curitiba,PR,2024-12-09
+67,Daniel Santos,68.0,Rio de Janeiro,RJ,2024-03-01
+68,Gabriel Costa,28.0,Curitiba,PR,2024-11-27
+69,Juliana Costa,41.0,Rio de Janeiro,RJ,2025-04-13
+70,Bruno Pereira,66.0,Campinas,SP,2023-09-22
+71,Carla Silva,38.0,Campinas,SP,2025-05-24
+72,Carla Silva,68.0,Campinas,SP,2024-09-03
+73,Bruno Silva,19.0,Rio de Janeiro,RJ,2023-12-08
+74,Gabriel Pereira,57.0,Curitiba,PR,2025-04-11
+75,Fernanda Souza,36.0,Campinas,SP,2024-12-26
+76,Daniel Costa,56.0,Salvador,BA,2023-10-05
+77,Carla Pereira,45.0,Rio de Janeiro,RJ,2024-11-04
+78,Fernanda Oliveira,76.0,Rio de Janeiro,RJ,2024-03-14
+79,Bruno Santos,34.0,Curitiba,PR,2023-06-06
+80,Lucas Souza,23.0,Rio de Janeiro,RJ,2024-02-26
+81,Fernanda Oliveira,36.0,Rio de Janeiro,RJ,2023-09-08
+82,Juliana Costa,73.0,Campinas,SP,2025-05-27
+83,Ana Silva,55.0,Curitiba,PR,2024-08-31
+84,Carla Costa,45.0,Campinas,SP,2024-06-13
+85,Bruno Pereira,19.0,Campinas,SP,2023-11-23
+86,Lucas Santos,55.0,Curitiba,PR,2025-06-13
+87,Daniel Pereira,72.0,São Paulo,SP,2023-04-07
+88,Lucas Souza,54.0,Campinas,,2024-05-27
+89,Gabriel Souza,68.0,Salvador,BA,2023-08-04
+90,Juliana Santos,69.0,Salvador,BA,2023-05-12
+91,Bruno Oliveira,21.0,Rio de Janeiro,RJ,2023-09-17
+92,Daniel Oliveira,39.0,Salvador,BA,2023-05-05
+93,Gabriel Souza,43.0,Rio de Janeiro,RJ,2023-03-23
+94,Gabriel Souza,66.0,São Paulo,SP,2023-10-10
+95,Bruno Silva,60.0,Curitiba,PR,2024-11-13
+96,Juliana Oliveira,53.0,Curitiba,PR,2023-02-28
+97,Fernanda Santos,75.0,Curitiba,PR,2024-06-27
+98,Fernanda Oliveira,30.0,Salvador,BA,2023-06-10
+99,Gabriel Silva,69.0,São Paulo,SP,2023-10-11
+100,Fernanda Pereira,0.0,Salvador,BA,2023-04-16
+101,Ana Souza,49.0,Salvador,BA,2023-04-15
+102,Gabriel Souza,34.0,São Paulo,SP,2024-03-14
+103,Gabriel Silva,58.0,São Paulo,SP,2023-08-16
+104,Daniel Santos,53.0,São Paulo,SP,2024-11-30
+105,Fernanda Souza,72.0,São Paulo,SP,2024-08-04
+106,Juliana Costa,77.0,Curitiba,PR,2023-11-14
+107,Gabriel Souza,63.0,Belo Horizonte,MG,2024-04-08
+108,Lucas Costa,36.0,Belo Horizonte,MG,2025-03-12
+109,Juliana Silva,75.0,São Paulo,SP,2024-08-21
+110,Ana Silva,77.0,Belo Horizonte,MG,2025-05-31
+111,Daniel Souza,52.0,Belo Horizonte,MG,2025-05-23
+112,Bruno Oliveira,63.0,São Paulo,SP,2024-04-16
+113,Juliana Costa,57.0,Belo Horizonte,MG,2023-02-25
+114,Gabriel Santos,73.0,Salvador,BA,2024-09-16
+115,Ana Souza,76.0,Rio de Janeiro,RJ,2023-01-13
+116,Carla Santos,45.0,Rio de Janeiro,RJ,2024-03-15
+117,Ana Souza,18.0,São Paulo,SP,2023-01-18
+118,Ana Oliveira,59.0,Curitiba,PR,2024-11-24
+119,Daniel Oliveira,35.0,São Paulo,SP,2023-04-23
+120,Bruno Oliveira,65.0,Curitiba,PR,2023-08-17
+121,Carla Pereira,57.0,Rio de Janeiro,RJ,2023-06-20
+122,Fernanda Oliveira,50.0,São Paulo,SP,2023-10-22
+123,Fernanda Silva,29.0,Campinas,SP,2023-07-08
+124,Juliana Silva,25.0,Salvador,BA,2024-03-01
+125,Ana Pereira,41.0,Belo Horizonte,MG,2023-03-20
+126,Lucas Costa,33.0,Curitiba,PR,2024-10-19
+127,Daniel Santos,67.0,Campinas,SP,2025-07-07
+128,Lucas Souza,21.0,Belo Horizonte,MG,2023-07-01
+129,Daniel Souza,55.0,Belo Horizonte,MG,2024-05-13
+130,Fernanda Pereira,0.0,São Paulo,SP,2025-03-08
+131,Juliana Silva,44.0,Belo Horizonte,MG,2025-01-31
+132,Juliana Souza,26.0,Salvador,BA,2025-05-15
+133,Juliana Silva,64.0,Campinas,SP,2025-04-05
+134,Carla Costa,33.0,Belo Horizonte,MG,2024-12-08
+135,Bruno Santos,73.0,São Paulo,SP,2025-04-14
+136,Carla Costa,29.0,Salvador,BA,2023-03-12
+137,Gabriel Pereira,48.0,Rio de Janeiro,RJ,2023-09-05
+138,Gabriel Oliveira,41.0,Campinas,SP,2023-05-26
+139,Lucas Oliveira,72.0,Belo Horizonte,MG,2024-09-09
+140,Bruno Oliveira,31.0,São Paulo,SP,2025-02-13
+141,Fernanda Costa,62.0,Rio de Janeiro,RJ,2023-10-23
+142,Bruno Souza,42.0,Rio de Janeiro,RJ,2024-08-04
+143,Daniel Santos,51.0,Curitiba,PR,2024-04-14
+144,Gabriel Oliveira,20.0,Salvador,BA,2024-05-20
+145,Ana Pereira,75.0,Belo Horizonte,MG,2023-07-12
+146,Ana Pereira,41.0,São Paulo,SP,2023-03-09
+147,Fernanda Oliveira,79.0,Curitiba,PR,2024-05-08
+148,Daniel Oliveira,71.0,Salvador,BA,2025-03-27
+149,Lucas Santos,59.0,Curitiba,PR,2023-02-21
+150,Carla Oliveira,26.0,Campinas,SP,2025-05-31
+151,Daniel Santos,43.0,Salvador,BA,2023-12-29
+152,Ana Pereira,37.0,Salvador,BA,2025-03-07
+153,Ana Oliveira,57.0,Belo Horizonte,MG,2025-07-05
+154,Lucas Costa,27.0,Salvador,BA,2024-04-18
+155,Gabriel Costa,36.0,Curitiba,PR,2025-04-25
+156,Daniel Pereira,20.0,Salvador,BA,2024-06-04
+157,Daniel Santos,41.0,Belo Horizonte,MG,2025-02-01
+158,Ana Costa,22.0,Belo Horizonte,MG,2024-03-06
+159,Carla Santos,20.0,Campinas,SP,2025-04-23
+160,Fernanda Costa,75.0,Curitiba,PR,2023-10-25
+161,Juliana Costa,150.0,Rio de Janeiro,RJ,2024-03-10
+162,Fernanda Santos,33.0,Rio de Janeiro,RJ,2024-11-26
+163,Daniel Souza,66.0,Salvador,XX,2024-11-21
+164,Fernanda Costa,32.0,Campinas,SP,2023-07-17
+165,Ana Oliveira,52.0,São Paulo,SP,2023-05-08
+166,Ana Pereira,29.0,Salvador,BA,2024-06-15
+167,Lucas Souza,58.0,Campinas,SP,2024-02-15
+168,Daniel Santos,70.0,Curitiba,PR,2025-07-22
+169,Lucas Souza,61.0,Curitiba,PR,2025-04-19
+170,Daniel Silva,,Curitiba,PR,2023-03-06
+171,Juliana Silva,64.0,Curitiba,PR,2024-11-24
+172,Juliana Costa,51.0,Curitiba,PR,2023-08-29
+173,Gabriel Costa,40.0,Campinas,SP,2024-01-04
+174,Daniel Oliveira,48.0,SP,SP,2024-06-19
+175,Carla Pereira,67.0,Belo Horizonte,MG,2024-01-19
+176,Fernanda Souza,37.0,Rio de Janeiro,RJ,2024-03-06
+177,Daniel Silva,,Curitiba,PR,2023-03-24
+178,Bruno Costa,40.0,São Paulo,SP,2025-04-10
+179,Gabriel Pereira,21.0,Campinas,SP,2024-11-27
+180,Bruno Souza,40.0,São Paulo,SP,2025-04-07
+181,Ana Costa,65.0,São Paulo,SP,2024-09-02
+182,Juliana Costa,72.0,São Paulo,SP,2024-07-27
+183,Fernanda Silva,65.0,Belo Horizonte,MG,2023-10-13
+184,Daniel Silva,,Campinas,SP,2024-06-17
+185,Bruno Costa,71.0,São Paulo,SP,2024-04-03
+186,Fernanda Santos,42.0,Curitiba,PR,2023-07-31
+187,Ana Costa,19.0,Salvador,BA,2023-05-06
+188,Juliana Pereira,47.0,São Paulo,SP,2024-02-17
+189,Carla Costa,20.0,Belo Horizonte,MG,2024-05-13
+190,Gabriel Oliveira,75.0,Campinas,SP,2024-02-29
+191,Fernanda Oliveira,38.0,Belo Horizonte,MG,2024-07-07
+192,Fernanda Oliveira,42.0,São Paulo,SP,2024-09-01
+193,Carla Santos,37.0,Campinas,SP,2024-06-26
+194,Fernanda Santos,66.0,Salvador,BA,2023-06-07
+195,Ana Costa,69.0,São Paulo,SP,2023-04-22
+196,Ana Oliveira,39.0,Belo Horizonte,MG,2024-02-06
+197,Carla Santos,38.0,Rio de Janeiro,RJ,2025-01-28
+198,Gabriel Silva,79.0,Curitiba,PR,2023-05-02
+199,Daniel Costa,78.0,Belo Horizonte,MG,2023-09-30
+200,Bruno Pereira,50.0,Campinas,SP,2023-10-21
+201,Daniel Souza,0.0,São Paulo,SP,2024-02-02
+202,Fernanda Costa,55.0,Curitiba,PR,2024-04-15
+203,Bruno Souza,78.0,São Paulo,SP,2023-07-26
+204,Lucas Oliveira,32.0,Campinas,SP,2023-04-20
+205,Carla Souza,75.0,São Paulo,SP,2024-03-15
+206,Carla Oliveira,75.0,Rio de Janeiro,RJ,2023-10-05
+207,Gabriel Silva,63.0,Curitiba,PR,2024-07-21
+208,Bruno Souza,69.0,Curitiba,PR,2025-06-05
+209,Ana Costa,32.0,Campinas,SP,2025-07-03
+210,Bruno Oliveira,63.0,Rio de Janeiro,RJ,2024-07-22
+211,Fernanda Costa,42.0,Belo Horizonte,MG,2025-07-28
+212,Ana Santos,38.0,São Paulo,SP,2024-04-26
+213,Juliana Oliveira,41.0,Salvador,BA,2025-03-13
+214,Juliana Souza,74.0,São Paulo,SP,2023-04-24
+215,Lucas Oliveira,75.0,São Paulo,SP,2025-06-11
+216,Juliana Costa,22.0,Belo Horizonte,MG,2025-06-15
+217,Carla Silva,23.0,São Paulo,SP,2025-03-30
+218,Bruno Oliveira,66.0,Rio de Janeiro,RJ,2025-05-02
+219,Juliana Souza,60.0,Rio de Janeiro,RJ,2024-04-21
+220,Daniel Santos,65.0,Curitiba,PR,2024-12-10
+221,Gabriel Pereira,61.0,Campinas,SP,2025-07-21
+222,Daniel Silva,64.0,Salvador,BA,2023-11-17
+223,Juliana Santos,40.0,São Paulo,SP,2023-06-28
+224,Lucas Oliveira,21.0,São Paulo,SP,2025-06-15
+225,Gabriel Costa,44.0,Belo Horizonte,MG,2023-08-07
+226,Fernanda Costa,35.0,Campinas,SP,2025-02-27
+227,Daniel Souza,38.0,Rio de Janeiro,RJ,2025-08-06
+228,Lucas Costa,45.0,Salvador,BA,2024-06-11
+229,Bruno Silva,52.0,Curitiba,PR,2024-05-06
+230,Bruno Costa,39.0,Rio de Janeiro,RJ,2025-06-09
+231,Daniel Souza,57.0,Campinas,SP,2023-03-02
+232,Juliana Pereira,40.0,Curitiba,PR,2023-02-23
+233,Lucas Oliveira,20.0,Belo Horizonte,MG,2024-11-10
+234,Bruno Oliveira,57.0,Belo Horizonte,MG,2024-06-21
+235,Fernanda Costa,67.0,São Paulo,SP,2025-04-27
+236,Ana Santos,27.0,Campinas,SP,2023-03-06
+237,Juliana Oliveira,42.0,Salvador,BA,2024-09-03
+238,Lucas Pereira,69.0,Curitiba,PR,2024-08-08
+239,Fernanda Costa,66.0,Rio de Janeiro,RJ,2024-12-04
+240,Lucas Souza,25.0,Campinas,SP,2023-06-20
+241,Gabriel Pereira,72.0,Campinas,SP,2023-09-30
+242,Fernanda Costa,28.0,Belo Horizonte,MG,2025-06-07
+243,Juliana Pereira,78.0,São Paulo,SP,2024-11-29
+244,Gabriel Oliveira,22.0,São Paulo,SP,2024-06-18
+245,Juliana Souza,75.0,Curitiba,PR,2024-01-26
+246,Bruno Costa,62.0,Belo Horizonte,MG,2025-07-28
+247,Ana Silva,70.0,Campinas,SP,2024-11-23
+248,Juliana Souza,72.0,Salvador,BA,2023-11-23
+249,Juliana Silva,54.0,Belo Horizonte,MG,2023-04-18
+250,Bruno Pereira,73.0,Curitiba,PR,2025-04-26
+251,Carla Santos,76.0,Curitiba,PR,2023-06-11
+252,Bruno Souza,62.0, sao paulo ,MG,2025-03-24
+253,Gabriel Pereira,55.0,Curitiba,PR,2024-03-27
+254,Bruno Silva,46.0,Belo Horizonte,MG,2023-07-25
+255,Bruno Oliveira,22.0,Rio de Janeiro,XX,2024-08-12
+256,Ana Oliveira,26.0,Belo Horizonte,MG,2023-01-16
+257,Bruno Santos,76.0,Belo Horizonte,MG,2023-11-23
+258,Lucas Souza,65.0,Curitiba,PR,2024-08-30
+259,Juliana Souza,19.0,Curitiba,PR,2024-10-20
+260,Lucas Souza,18.0,São Paulo,SP,2023-01-02
+261,Ana Pereira,57.0,São Paulo,SP,2023-01-10
+262,Daniel Santos,77.0,Rio de Janeiro,RJ,2024-03-09
+263,Carla Souza,68.0,São Paulo,SP,2023-05-05
+264,Lucas Pereira,47.0,Belo Horizonte,MG,2023-03-22
+265,Ana Oliveira,28.0,Curitiba,PR,2024-04-29
+266,Gabriel Silva,45.0,São Paulo,SP,2024-10-13
+267,Daniel Pereira,61.0,São Paulo,SP,2025-04-17
+268,Ana Oliveira,29.0,Rio de Janeiro,RJ,2023-05-30
+269,Ana Oliveira,56.0,Campinas,SP,2025-03-10
+270,Carla Silva,43.0,Rio de Janeiro,RJ,2025-05-22
+271,Juliana Oliveira,30.0,Belo Horizonte,MG,2023-12-06
+272,Lucas Santos,76.0,Curitiba,PR,2023-05-09
+273,Gabriel Silva,25.0,Rio de Janeiro,RJ,2024-03-13
+274,Fernanda Oliveira,78.0,São Paulo,SP,2025-01-20
+275,Lucas Costa,78.0,Curitiba,PR,2024-05-15
+276,Fernanda Pereira,71.0,Curitiba,PR,2023-02-27
+277,Ana Oliveira,45.0,São Paulo,SP,2023-07-17
+278,Bruno Santos,75.0,Rio de Janeiro,RJ,2023-07-30
+279,Gabriel Souza,47.0,São Paulo,SP,2025-07-02
+280,Daniel Oliveira,26.0,Campinas,SP,2025-06-20
+281,Bruno Souza,56.0,Curitiba,PR,2023-02-14
+282,Bruno Costa,48.0,Salvador,BA,2023-04-07
+283,Lucas Oliveira,75.0,Salvador,BA,2023-10-06
+284,Gabriel Silva,38.0,Belo Horizonte,MG,2024-06-18
+285,Juliana Souza,73.0,São Paulo,SP,2024-02-14
+286,Ana Costa,64.0,São Paulo,SP,2024-04-05
+287,Ana Silva,51.0,Belo Horizonte,MG,2024-01-26
+288,Ana Silva,72.0,Belo Horizonte,MG,2025-04-26
+289,Ana Silva,48.0,Belo Horizonte,MG,2023-02-13
+290,Lucas Silva,69.0,Curitiba,PR,2023-01-27
+291,Fernanda Oliveira,42.0,Campinas,SP,2025-03-04
+292,Ana Pereira,29.0,São Paulo,SP,2023-04-07
+293,Fernanda Oliveira,18.0,Curitiba,PR,2024-07-01
+294,Fernanda Oliveira,72.0,Belo Horizonte,MG,2024-09-12
+295,Juliana Costa,39.0,São Paulo,SP,2024-07-20
+296,Ana Costa,57.0,Curitiba,PR,2024-12-04
+297,Carla Pereira,54.0,Campinas,SP,2023-08-07
+298,Daniel Costa,64.0,Curitiba,PR,2023-07-04
+299,Bruno Santos,18.0,Campinas,SP,2023-03-10
+300,Fernanda Pereira,18.0,Belo Horizonte,MG,2025-04-08
+301,Gabriel Costa,74.0,Campinas,SP,2023-05-10
+302,Gabriel Pereira,59.0,São Paulo,SP,2024-07-20
+303,Daniel Oliveira,71.0,Belo Horizonte,MG,2025-06-08
+304,Gabriel Oliveira,59.0,São Paulo,SP,2024-08-31
+305,Carla Pereira,38.0,Salvador,BA,2025-04-27
+306,Gabriel Santos,32.0,Rio de Janeiro,RJ,2024-08-21
+307,Bruno Santos,34.0,Campinas,SP,2025-03-16
+308,Bruno Pereira,39.0,Rio de Janeiro,RJ,2024-09-22
+309,Fernanda Costa,55.0,Rio de Janeiro,RJ,2024-12-20
+310,Ana Souza,52.0,Campinas,SP,2023-11-30
+311,Juliana Santos,62.0,Belo Horizonte,MG,2025-07-13
+312,Carla Silva,33.0,Sao Paulo,BA,2023-06-03
+313,Fernanda Oliveira,25.0,São Paulo,SP,2024-06-30
+314,Carla Pereira,79.0,Curitiba,PR,2023-03-20
+315,Ana Silva,64.0,São Paulo,SP,2024-08-01
+316,Lucas Pereira,34.0,Curitiba,PR,2025-05-04
+317,Gabriel Oliveira,34.0,São Paulo,SP,2024-02-17
+318,Gabriel Oliveira,71.0,Campinas,SP,2024-06-29
+319,Juliana Santos,43.0,Salvador,BA,2024-08-31
+320,Ana Santos,30.0,Curitiba,PR,2023-06-18
+321,Fernanda Silva,34.0,Belo Horizonte,MG,2024-11-11
+322,Juliana Pereira,55.0,São Paulo,SP,2024-10-24
+323,Ana Oliveira,34.0,São Paulo,SP,2024-08-05
+324,Daniel Silva,65.0,Curitiba,PR,2024-05-29
+325,Bruno Souza,31.0,Belo Horizonte,MG,2023-11-10
+326,Juliana Silva,62.0,Belo Horizonte,MG,2023-02-01
+327,Juliana Costa,23.0,Campinas,SP,2023-10-14
+328,Fernanda Silva,52.0,Campinas,SP,2024-08-16
+329,Carla Costa,63.0,Campinas,SP,2023-02-12
+330,Daniel Costa,31.0,Campinas,SP,2025-06-21
+331,Fernanda Costa,64.0,Campinas,SP,2024-09-08
+332,Ana Souza,25.0,Campinas,SP,2023-01-01
+333,Ana Silva,78.0,Salvador,BA,2024-07-26
+334,Ana Silva,32.0,Belo Horizonte,MG,2023-09-27
+335,Lucas Souza,71.0,Campinas,SP,2023-06-29
+336,Ana Oliveira,78.0,Belo Horizonte,MG,2025-01-05
+337,Carla Santos,44.0,Belo Horizonte,MG,2024-06-01
+338,Daniel Silva,30.0,Rio de Janeiro,RJ,2023-04-13
+339,Gabriel Santos,66.0,Salvador,BA,2023-01-10
+340,Bruno Pereira,48.0,Campinas,SP,2024-08-05
+341,Carla Pereira,70.0,São Paulo,SP,2023-03-31
+342,Carla Souza,73.0,Curitiba,PR,2023-08-14
+343,Lucas Pereira,52.0,São Paulo,SP,2024-10-31
+344,Gabriel Pereira,77.0,Salvador,BA,2025-01-09
+345,Gabriel Oliveira,23.0,Curitiba,PR,2025-07-05
+346,Bruno Oliveira,22.0,Salvador,BA,2023-05-06
+347,Bruno Oliveira,,Belo Horizonte,MG,2023-07-28
+348,Gabriel Pereira,75.0,Curitiba,PR,2023-04-07
+349,Ana Souza,66.0,Belo Horizonte,MG,2023-03-15
+350,Carla Costa,40.0,São Paulo,SP,2024-09-18
+351,Fernanda Costa,42.0,São Paulo,SP,2023-07-10
+352,Bruno Santos,51.0,Curitiba,PR,2024-11-12
+353,Lucas Costa,43.0,Curitiba,PR,2025-03-29
+354,Lucas Costa,64.0,Campinas,SP,2024-12-16
+355,Bruno Oliveira,22.0,Salvador,BA,2023-02-25
+356,Gabriel Oliveira,43.0,Campinas,SP,2024-12-20
+357,Daniel Pereira,37.0,Salvador,BA,2024-07-06
+358,Fernanda Santos,120.0,Campinas,SP,2023-02-01
+359,Fernanda Silva,23.0,Belo Horizonte,MG,2024-06-10
+360,Bruno Santos,76.0,Curitiba,PR,2024-07-27
+361,Ana Santos,67.0,São Paulo,SP,2024-10-28
+362,Daniel Souza,35.0,Salvador,BA,2023-10-11
+363,Fernanda Pereira,21.0,Salvador,BA,2024-12-21
+364,Bruno Souza,34.0, sao paulo ,SP,2025-04-11
+365,Lucas Santos,74.0, sao paulo ,SP,2024-05-08
+366,Fernanda Santos,31.0,Salvador,BA,2023-07-06
+367,Juliana Santos,31.0,Belo Horizonte,MG,2024-05-12
+368,Daniel Costa,30.0,Curitiba,PR,2024-03-17
+369,Daniel Souza,24.0,São Paulo,SP,2023-05-10
+370,Juliana Santos,61.0,Curitiba,PR,2024-09-30
+371,Carla Oliveira,72.0,Salvador,BA,2023-10-19
+372,Lucas Pereira,32.0,Salvador,BA,2023-04-24
+373,Juliana Pereira,36.0,SP,SP,2023-07-18
+374,Gabriel Oliveira,60.0,Belo Horizonte,MG,2023-01-13
+375,Gabriel Pereira,64.0,Rio de Janeiro,RJ,2023-09-28
+376,Bruno Costa,61.0,São Paulo,SP,2024-08-23
+377,Daniel Costa,52.0,Rio de Janeiro,RJ,2023-08-03
+378,Carla Silva,34.0,Campinas,SP,2024-03-19
+379,Carla Silva,52.0,Rio de Janeiro,RJ,2025-02-28
+380,Fernanda Silva,36.0,Belo Horizonte,MG,2024-05-26
+381,Fernanda Pereira,37.0,Campinas,SP,2024-03-22
+382,Juliana Costa,53.0,Rio de Janeiro,RJ,2024-12-15
+383,Carla Costa,52.0,Campinas,SP,2023-03-15
+384,Juliana Costa,49.0,Rio de Janeiro,RJ,2024-06-20
+385,Lucas Oliveira,75.0,Belo Horizonte,MG,2023-04-11
+386,Juliana Costa,65.0,Rio de Janeiro,RJ,2023-06-25
+387,Fernanda Oliveira,61.0,Rio de Janeiro,RJ,2024-03-02
+388,Daniel Silva,,Rio de Janeiro,RJ,2023-04-27
+389,Juliana Silva,41.0,São Paulo,SP,2023-06-15
+390,Ana Pereira,78.0,São Paulo,SP,2023-02-10
+391,Daniel Silva,78.0,São Paulo,SP,2024-03-04
+392,Carla Pereira,34.0,Belo Horizonte,MG,2023-12-10
+393,Carla Santos,24.0,Campinas,SP,2024-02-28
+394,Juliana Santos,60.0,Salvador,BA,2024-01-01
+395,Daniel Souza,67.0,Rio de Janeiro,RJ,2023-04-30
+396,Fernanda Pereira,18.0,Rio de Janeiro,RJ,2024-08-31
+397,Fernanda Souza,52.0,Belo Horizonte,MG,2024-10-18
+398,Gabriel Souza,49.0,Rio de Janeiro,RJ,2024-12-28
+399,Carla Santos,53.0,São Paulo,SP,2023-08-17
+400,Bruno Pereira,30.0,Salvador,BA,2025-04-04
+401,Gabriel Santos,23.0,Curitiba,PR,2023-05-10
+402,Fernanda Souza,75.0,Rio de Janeiro,RJ,2023-12-18
+403,Daniel Pereira,31.0,São Paulo,SP,2025-06-07
+404,Lucas Souza,54.0,Curitiba,PR,2023-11-14
+405,Fernanda Costa,65.0,Salvador,BA,2024-10-10
+406,Daniel Pereira,32.0,Curitiba,PR,2025-04-15
+407,Gabriel Pereira,64.0,São Paulo,SP,2023-12-03
+408,Carla Souza,79.0,Campinas,SP,2023-09-30
+409,Fernanda Costa,21.0,Campinas,SP,2023-04-27
+410,Juliana Oliveira,57.0,Curitiba,PR,2025-03-28
+411,Daniel Santos,76.0,Belo Horizonte,MG,2024-01-03
+412,Carla Souza,33.0,Curitiba,PR,2023-04-04
+413,Lucas Pereira,45.0,Rio de Janeiro,RJ,2023-06-17
+414,Lucas Santos,33.0,Rio de Janeiro,RJ,2024-12-15
+415,Bruno Santos,79.0,Campinas,SP,2023-12-07
+416,Daniel Santos,21.0,Belo Horizonte,MG,2024-10-22
+417,Gabriel Oliveira,62.0,São Paulo,SP,2025-07-02
+418,Bruno Silva,43.0,Rio de Janeiro,RJ,2024-11-25
+419,Bruno Souza,45.0,Campinas,SP,2025-07-13
+420,Ana Silva,49.0,Salvador,BA,2023-06-01
+421,Fernanda Silva,62.0,Campinas,SP,2024-08-08
+422,Daniel Silva,19.0,Rio de Janeiro,RJ,2025-05-26
+423,Bruno Santos,48.0,Rio de Janeiro,RJ,2025-07-01
+424,Ana Costa,20.0,Campinas,SP,2023-10-01
+425,Gabriel Santos,71.0,São Paulo,SP,2024-07-07
+426,Carla Santos,25.0,Curitiba,PR,2024-05-10
+427,Juliana Pereira,41.0,Rio de Janeiro,RJ,2024-12-24
+428,Juliana Pereira,32.0,Campinas,SP,2023-04-11
+429,Daniel Silva,60.0,Campinas,SP,2024-07-10
+430,Bruno Santos,48.0,Belo Horizonte,MG,2023-03-23
+431,Juliana Silva,26.0,Curitiba,PR,2024-06-12
+432,Fernanda Pereira,56.0,Salvador,BA,2023-03-14
+433,Juliana Costa,62.0,São Paulo,SP,2023-01-14
+434,Juliana Souza,19.0,Salvador,BA,2024-03-08
+435,Juliana Silva,25.0,Curitiba,PR,2023-06-06
+436,Lucas Costa,24.0,Curitiba,PR,2025-01-04
+437,Ana Souza,73.0,Curitiba,PR,2023-05-12
+438,Bruno Oliveira,61.0,Salvador,BA,2023-12-04
+439,Fernanda Silva,68.0,Curitiba,PR,2024-02-08
+440,Bruno Silva,56.0,Campinas,SP,2024-01-11
+441,Lucas Oliveira,59.0,Salvador,BA,2025-06-06
+442,Daniel Oliveira,78.0,Curitiba,PR,2024-07-12
+443,Daniel Silva,74.0,Campinas,SP,2023-04-17
+444,Daniel Oliveira,33.0,Belo Horizonte,MG,2024-09-11
+445,Gabriel Santos,52.0,Curitiba,PR,2023-09-22
+446,Juliana Souza,47.0,Salvador,BA,2023-07-24
+447,Gabriel Souza,27.0,Rio de Janeiro,RJ,2023-03-20
+448,Ana Souza,55.0,Curitiba,PR,2023-06-04
+449,Daniel Santos,35.0,Rio de Janeiro,RJ,2025-02-21
+450,Lucas Oliveira,67.0,Campinas,SP,2023-09-04
+451,Fernanda Costa,22.0,Belo Horizonte,MG,2024-06-14
+452,Bruno Oliveira,70.0,São Paulo,SP,2025-05-07
+453,Juliana Silva,46.0,Belo Horizonte,MG,2025-08-05
+454,Carla Pereira,56.0,Curitiba,PR,2024-06-21
+455,Fernanda Souza,77.0,Rio de Janeiro,RJ,2024-12-29
+456,Juliana Oliveira,51.0,Rio de Janeiro,RJ,2023-06-03
+457,Gabriel Costa,60.0,Salvador,BA,2023-06-03
+458,Gabriel Silva,79.0,Rio de Janeiro,RJ,2024-11-16
+459,Fernanda Santos,62.0,Salvador,BA,2023-04-02
+460,Gabriel Santos,40.0,Campinas,SP,2024-03-08
+461,Daniel Costa,22.0,São Paulo,SP,2023-12-04
+462,Ana Silva,47.0,Curitiba,PR,2024-04-24
+463,Bruno Souza,23.0,Salvador,BA,2024-11-23
+464,Ana Oliveira,73.0,São Paulo,SP,2023-05-11
+465,Juliana Silva,75.0,Rio de Janeiro,RJ,2024-03-25
+466,Bruno Santos,78.0,Rio de Janeiro,RJ,2025-03-20
+467,Lucas Costa,63.0,São Paulo,SP,2025-02-25
+468,Bruno Costa,61.0,Rio de Janeiro,RJ,2023-09-30
+469,Ana Oliveira,21.0, sao paulo ,SP,2025-07-17
+470,Fernanda Costa,46.0,Campinas,SP,2024-08-10
+471,Bruno Costa,40.0,São Paulo,SP,2023-06-26
+472,Lucas Silva,23.0,Salvador,BA,2024-11-26
+473,Lucas Souza,49.0,Salvador,BA,2025-04-10
+474,Lucas Oliveira,59.0,São Paulo,SP,2024-10-04
+475,Ana Silva,35.0,Salvador,BA,2025-05-24
+476,Bruno Souza,32.0,Salvador,BA,2023-02-18
+477,Carla Silva,57.0,Campinas,SP,2024-07-20
+478,Fernanda Pereira,75.0,Salvador,BA,2024-10-27
+479,Daniel Silva,49.0,Belo Horizonte,MG,2023-12-21
+480,Bruno Costa,26.0,Curitiba,PR,2024-12-12
+481,Lucas Souza,54.0,Rio de Janeiro,RJ,2023-11-04
+482,Carla Oliveira,27.0,Belo Horizonte,MG,2025-05-17
+483,Daniel Oliveira,37.0,Salvador,BA,2025-06-03
+484,Daniel Souza,23.0,Campinas,SP,2024-09-21
+485,Juliana Costa,65.0,São Paulo,RJ,2025-02-13
+486,Bruno Santos,73.0,Salvador,BA,2023-02-15
+487,Ana Silva,76.0,Campinas,SP,2023-10-29
+488,Bruno Costa,20.0,Curitiba,PR,2025-05-17
+489,Carla Pereira,59.0,Salvador,BA,2025-06-30
+490,Daniel Souza,28.0,Sao Paulo,SP,2024-02-12
+491,Bruno Silva,60.0,Campinas,SP,2023-07-08
+492,Ana Oliveira,34.0,Campinas,SP,2025-04-01
+493,Juliana Santos,49.0,Campinas,SP,2025-04-09
+494,Bruno Pereira,21.0,Curitiba,PR,2023-05-09
+495,Fernanda Oliveira,21.0,Salvador,BA,2024-07-14
+496,Juliana Souza,34.0,Curitiba,PR,2024-06-20
+497,Ana Silva,58.0,Rio de Janeiro,RJ,2023-09-23
+498,Carla Souza,36.0,Rio de Janeiro,RJ,2023-04-28
+499,Daniel Silva,22.0,Salvador,BA,2024-04-08
+500,Bruno Costa,49.0,Curitiba,PR,2023-05-24
+501,Ana Santos,39.0,São Paulo,SP,2024-03-17
+502,Juliana Costa,73.0,Campinas,SP,2023-07-19
+503,Fernanda Costa,23.0,Campinas,SP,2023-06-06
+504,Ana Souza,52.0,Salvador,BA,2024-05-01
+505,Gabriel Santos,39.0,Rio de Janeiro,RJ,2025-05-09
+506,Lucas Silva,18.0,Rio de Janeiro,RJ,2023-05-14
+507,Fernanda Silva,37.0,Campinas,SP,2025-06-30
+508,Juliana Pereira,39.0,Salvador,BA,2023-05-28
+509,Carla Oliveira,65.0,Curitiba,PR,2023-12-02
+510,Daniel Pereira,72.0,Rio de Janeiro,RJ,2023-03-12
+511,Juliana Pereira,28.0,Curitiba,PR,2023-08-21
+512,Lucas Silva,30.0,Rio de Janeiro,RJ,2023-11-30
+513,Carla Souza,76.0,Rio de Janeiro,RJ,2025-03-21
+514,Bruno Costa,59.0,Belo Horizonte,MG,2024-10-27
+515,Ana Costa,20.0,Rio de Janeiro,RJ,2023-03-31
+516,Gabriel Costa,26.0,São Paulo,SP,2023-11-30
+517,Fernanda Santos,77.0,Salvador,BA,2023-07-18
+518,Fernanda Silva,29.0,Salvador,BA,2023-06-10
+519,Ana Souza,40.0,Curitiba,PR,2024-06-21
+520,Gabriel Santos,31.0,Rio de Janeiro,RJ,2023-05-01
+521,Ana Oliveira,50.0,São Paulo,SP,2023-10-28
+522,Bruno Souza,35.0,Curitiba,PR,2024-12-24
+523,Lucas Pereira,-5.0,Belo Horizonte,MG,2024-07-28
+524,Carla Souza,76.0,Curitiba,PR,2024-03-11
+525,Juliana Souza,58.0,Curitiba,PR,2023-03-09
+526,Fernanda Costa,26.0,Rio de Janeiro,RJ,2025-02-03
+527,Bruno Souza,40.0,Belo Horizonte,MG,2025-07-10
+528,Carla Pereira,27.0,Curitiba,PR,2024-04-03
+529,Bruno Pereira,36.0,São Paulo,SP,2024-05-28
+530,Gabriel Silva,78.0,São Paulo,SP,2024-02-02
+531,Fernanda Souza,64.0,Salvador,BA,2024-09-11
+532,Juliana Costa,22.0,Belo Horizonte,MG,2023-10-13
+533,Ana Souza,64.0,Belo Horizonte,MG,2024-07-14
+534,Ana Oliveira,69.0,Salvador,BA,2023-05-20
+535,Carla Oliveira,40.0,Curitiba,PR,2024-12-30
+536,Juliana Costa,47.0,Belo Horizonte,MG,2024-07-09
+537,Lucas Silva,42.0,São Paulo,SP,2025-07-17
+538,Daniel Silva,45.0,São Paulo,SP,2025-02-19
+539,Gabriel Pereira,51.0,Rio de Janeiro,RJ,2024-08-12
+540,Carla Pereira,62.0,Belo Horizonte,MG,2024-12-28
+541,Daniel Santos,73.0,Curitiba,PR,2025-06-12
+542,Bruno Costa,65.0,Salvador,BA,2024-09-01
+543,Gabriel Souza,64.0,Salvador,BA,2025-01-17
+544,Bruno Costa,42.0,Curitiba,PR,2023-10-09
+545,Lucas Santos,27.0,Campinas,SP,2024-10-22
+546,Juliana Pereira,0.0,Rio de Janeiro,RJ,2025-07-12
+547,Fernanda Costa,59.0,Salvador,BA,2025-03-26
+548,Gabriel Costa,74.0,Belo Horizonte,MG,2025-07-24
+549,Daniel Pereira,63.0,Rio de Janeiro,RJ,2024-07-31
+550,Lucas Santos,75.0,Belo Horizonte,MG,2025-01-15
+551,Fernanda Pereira,47.0,São Paulo,SP,2024-04-01
+552,Ana Silva,72.0,Rio de Janeiro,RJ,2023-03-28
+553,Daniel Souza,58.0,Salvador,BA,2023-03-20
+554,Carla Pereira,42.0,Rio de Janeiro,RJ,2023-07-24
+555,Ana Santos,31.0,Rio de Janeiro,RJ,2025-03-01
+556,Lucas Oliveira,52.0,Rio de Janeiro,RJ,2023-12-03
+557,Ana Silva,,Campinas,SP,2023-09-11
+558,Carla Oliveira,65.0,Rio de Janeiro,RJ,2023-10-31
+559,Gabriel Pereira,51.0,Belo Horizonte,MG,2024-01-15
+560,Ana Silva,27.0,São Paulo,SP,2023-05-10
+561,Juliana Souza,52.0,Curitiba,PR,2024-08-18
+562,Daniel Pereira,28.0,Rio de Janeiro,RJ,2023-10-03
+563,Fernanda Souza,28.0,Salvador,BA,2024-11-29
+564,Ana Costa,38.0,Rio de Janeiro,RJ,2024-07-11
+565,Daniel Oliveira,38.0,Salvador,BA,2025-06-17
+566,Bruno Silva,39.0,Belo Horizonte,MG,2023-07-02
+567,Daniel Souza,62.0,Salvador,BA,2023-09-25
+568,Fernanda Santos,24.0,Curitiba,PR,2025-03-18
+569,Daniel Souza,72.0,São Paulo,SP,2023-11-18
+570,Carla Santos,34.0,Salvador,BA,2024-05-26
+571,Lucas Pereira,79.0,Salvador,BA,2024-09-03
+572,Fernanda Silva,19.0,São Paulo,SP,2023-03-19
+573,Lucas Souza,29.0,Curitiba,PR,2025-02-22
+574,Gabriel Souza,74.0,Rio de Janeiro,RJ,2023-12-05
+575,Lucas Silva,59.0,rio de janeiro,BA,2024-11-04
+576,Bruno Souza,35.0,São Paulo,SP,2024-07-09
+577,Carla Santos,71.0,Belo Horizonte,MG,2024-05-23
+578,Gabriel Souza,76.0,São Paulo,SP,2023-08-26
+579,Daniel Oliveira,28.0,Belo Horizonte,MG,2023-05-14
+580,Fernanda Pereira,33.0,Curitiba,PR,2023-07-11
+581,Bruno Costa,66.0,Rio de Janeiro,RJ,2023-12-22
+582,Carla Santos,68.0,São Paulo,SP,2023-10-05
+583,Gabriel Oliveira,35.0,Campinas,SP,2023-01-18
+584,Gabriel Pereira,52.0,Salvador,BA,2024-06-07
+585,Bruno Silva,70.0,Curitiba,PR,2023-06-29
+586,Juliana Santos,76.0,São Paulo,SP,2023-05-03
+587,Daniel Costa,43.0,Salvador,BA,2023-09-03
+588,Bruno Pereira,33.0,São Paulo,SP,2025-01-03
+589,Gabriel Costa,23.0,Belo Horizonte,MG,2024-01-08
+590,Ana Silva,74.0,São Paulo,SP,2023-02-20
+591,Carla Silva,61.0,Campinas,SP,2023-03-12
+592,Bruno Santos,60.0,São Paulo,SP,2024-04-24
+593,Juliana Souza,64.0,São Paulo,SP,2024-07-13
+594,Gabriel Silva,64.0,Campinas,SP,2023-01-19
+595,Daniel Pereira,65.0,Curitiba,PR,2025-02-12
+596,Lucas Souza,59.0,São Paulo,SP,2023-03-25
+597,Gabriel Oliveira,29.0,Campinas,SP,2023-06-04
+598,Daniel Costa,77.0,Salvador,BA,2024-07-18
+599,Bruno Souza,30.0,Belo Horizonte,MG,2024-09-10
+600,Daniel Costa,21.0,Belo Horizonte,MG,2023-12-23
+601,Fernanda Souza,56.0,São Paulo,SP,2025-03-26
+602,Fernanda Oliveira,71.0,Curitiba,PR,2024-10-08
+603,Fernanda Silva,19.0,Curitiba,,2024-03-18
+604,Juliana Oliveira,43.0,Salvador,BA,2023-03-10
+605,Juliana Silva,76.0,São Paulo,SP,2024-06-06
+606,Ana Silva,44.0,Belo Horizonte,MG,2023-05-23
+607,Juliana Costa,44.0,Curitiba,PR,2023-07-11
+608,Lucas Pereira,32.0,São Paulo,SP,2024-01-22
+609,Bruno Oliveira,25.0,Curitiba,PR,2024-01-13
+610,Gabriel Souza,,Campinas,SP,2024-08-03
+611,Gabriel Oliveira,64.0,Curitiba,PR,2024-06-18
+612,Ana Costa,72.0,Belo Horizonte,MG,2024-11-23
+613,Juliana Silva,63.0,Rio de Janeiro,RJ,2023-10-20
+614,Lucas Costa,57.0,Salvador,BA,2023-01-09
+615,Daniel Santos,77.0,Salvador,BA,2023-09-28
+616,Ana Santos,29.0,Belo Horizonte,MG,2024-01-22
+617,Lucas Souza,30.0,Curitiba,PR,2023-04-03
+618,Daniel Costa,79.0,São Paulo,SP,2024-06-12
+619,Lucas Souza,60.0,Curitiba,PR,2023-06-03
+620,Daniel Souza,34.0,Belo Horizonte,MG,2024-02-09
+621,Carla Santos,78.0,Salvador,BA,2025-04-19
+622,Lucas Souza,34.0,Curitiba,SP,2023-05-29
+623,Gabriel Santos,73.0,Salvador,BA,2025-06-07
+624,Fernanda Silva,53.0,São Paulo,RJ,2023-09-24
+625,Juliana Costa,38.0,Salvador,BA,2024-02-26
+626,Daniel Souza,25.0,Salvador,BA,2025-04-19
+627,Carla Santos,22.0,Rio de Janeiro,RJ,2024-09-09
+628,Lucas Oliveira,43.0,Rio de Janeiro,RJ,2024-04-16
+629,Gabriel Souza,33.0,Campinas,SP,2025-06-11
+630,Fernanda Pereira,53.0,Rio de Janeiro,RJ,2024-06-30
+631,Daniel Silva,45.0,Salvador,BA,2024-09-22
+632,Lucas Silva,71.0,Belo Horizonte,MG,2024-06-09
+633,Lucas Oliveira,46.0,Salvador,BA,2024-05-17
+634,Daniel Santos,64.0,Belo Horizonte,MG,2023-01-14
+635,Ana Souza,29.0,Belo Horizonte,MG,2025-02-16
+636,Ana Santos,54.0,Rio de Janeiro,RJ,2024-10-13
+637,Gabriel Silva,47.0,Curitiba,PR,2025-03-16
+638,Fernanda Santos,40.0,São Paulo,SP,2023-12-30
+639,Daniel Silva,33.0,Rio de Janeiro,RJ,2023-04-29
+640,Gabriel Santos,31.0,Rio de Janeiro,RJ,2023-08-26
+641,Gabriel Oliveira,27.0,Curitiba,PR,2024-06-29
+642,Bruno Costa,24.0,São Paulo,SP,2023-06-18
+643,Lucas Oliveira,62.0,Salvador,BA,2024-06-05
+644,Juliana Oliveira,69.0,Campinas,SP,2024-09-25
+645,Lucas Costa,77.0,Campinas,SP,2025-07-01
+646,Ana Costa,78.0,Salvador,BA,2024-10-18
+647,Fernanda Souza,54.0,Rio de Janeiro,RJ,2025-01-04
+648,Lucas Souza,46.0, sao paulo ,SP,2025-06-01
+649,Daniel Oliveira,20.0,Rio de Janeiro,RJ,2025-02-07
+650,Gabriel Oliveira,32.0,Belo Horizonte,MG,2025-02-18
+651,Daniel Silva,53.0,Rio de Janeiro,RJ,2025-05-20
+652,Bruno Silva,64.0,Rio de Janeiro,RJ,2024-05-30
+653,Fernanda Souza,63.0,Salvador,BA,2025-07-26
+654,Gabriel Pereira,69.0,Salvador,BA,2024-02-01
+655,Daniel Pereira,36.0,Salvador,BA,2025-05-15
+656,Ana Souza,30.0,Campinas,SP,2023-04-16
+657,Juliana Silva,59.0,Belo Horizonte,MG,2023-03-26
+658,Bruno Silva,38.0,Salvador,BA,2023-08-02
+659,Fernanda Pereira,54.0,São Paulo,SP,2023-05-01
+660,Bruno Santos,44.0,Campinas,SP,2023-05-12
+661,Ana Santos,72.0,Curitiba,PR,2025-04-29
+662,Fernanda Silva,69.0,São Paulo,SP,2023-07-16
+663,Bruno Santos,46.0,São Paulo,SP,2023-01-19
+664,Carla Costa,37.0,Salvador,BA,2024-10-03
+665,Ana Souza,42.0,Curitiba,PR,2023-01-12
+666,Ana Souza,23.0,Curitiba,PR,2023-03-22
+667,Ana Silva,53.0,Campinas,SP,2023-11-26
+668,Carla Oliveira,19.0,Curitiba,PR,2025-05-15
+669,Carla Pereira,39.0,Belo Horizonte,MG,2025-02-12
+670,Daniel Silva,49.0,Salvador,BA,2024-01-27
+671,Gabriel Santos,33.0,Curitiba,PR,2024-09-28
+672,Juliana Pereira,,Campinas,SP,2023-11-03
+673,Bruno Oliveira,22.0,Belo Horizonte,MG,2023-09-24
+674,Daniel Santos,71.0,Rio de Janeiro,RJ,2024-03-22
+675,Bruno Costa,53.0,Rio de Janeiro,RJ,2024-03-16
+676,Juliana Santos,47.0,Belo Horizonte,MG,2025-06-13
+677,Gabriel Costa,62.0,Campinas,SP,2024-10-13
+678,Carla Pereira,36.0,Belo Horizonte,MG,2025-04-20
+679,Gabriel Costa,40.0,Salvador,BA,2023-01-02
+680,Carla Pereira,51.0,Salvador,BA,2024-06-03
+681,Juliana Pereira,30.0,Rio de Janeiro,RJ,2025-01-31
+682,Gabriel Pereira,60.0,Curitiba,PR,2024-10-12
+683,Daniel Pereira,79.0,Campinas,SP,2024-09-27
+684,Fernanda Pereira,71.0,Rio de Janeiro,RJ,2023-11-05
+685,Daniel Santos,46.0,Curitiba,PR,2025-01-09
+686,Bruno Pereira,53.0,Curitiba,PR,2024-06-05
+687,Daniel Santos,39.0,Salvador,BA,2024-04-13
+688,Juliana Pereira,69.0,São Paulo,SP,2023-07-31
+689,Ana Costa,69.0,São Paulo,SP,2023-04-22
+690,Bruno Pereira,64.0,Belo Horizonte,MG,2023-01-08
+691,Gabriel Oliveira,53.0,Salvador,BA,2025-03-14
+692,Bruno Pereira,26.0,Curitiba,PR,2024-04-21
+693,Fernanda Pereira,56.0,Campinas,SP,2025-05-23
+694,Carla Costa,68.0,São Paulo,SP,2024-04-04
+695,Gabriel Souza,36.0,Curitiba,PR,2023-09-10
+696,Lucas Costa,55.0,São Paulo,SP,2024-06-09
+697,Bruno Oliveira,23.0,São Paulo,SP,2025-01-21
+698,Gabriel Souza,69.0,São Paulo,SP,2024-03-13
+699,Gabriel Silva,64.0,Campinas,SP,2025-01-23
+700,Gabriel Silva,32.0,Salvador,BA,2025-05-03
+701,Carla Oliveira,74.0,Campinas,SP,2024-10-22
+702,Lucas Costa,37.0,Rio de Janeiro,RJ,2023-08-24
+703,Juliana Santos,26.0,Curitiba,PR,2023-11-02
+704,Daniel Oliveira,49.0,Salvador,BA,2024-04-22
+705,Gabriel Souza,21.0,Salvador,BA,2024-11-09
+706,Ana Souza,67.0,Salvador,BA,2023-01-20
+707,Juliana Pereira,35.0,Salvador,BA,2023-08-04
+708,Fernanda Silva,22.0,Campinas,SP,2025-05-04
+709,Carla Souza,37.0,Salvador,BA,2023-05-15
+710,Bruno Oliveira,40.0,Belo Horizonte,MG,2025-06-23
+711,Carla Souza,79.0,Curitiba,PR,2023-05-09
+712,Bruno Oliveira,28.0,Salvador,BA,2024-02-14
+713,Carla Santos,54.0,Curitiba,PR,2024-02-26
+714,Bruno Pereira,39.0,Belo Horizonte,MG,2023-10-21
+715,Gabriel Silva,75.0,Belo Horizonte,MG,2023-09-03
+716,Daniel Souza,21.0,Curitiba,PR,2024-12-01
+717,Bruno Oliveira,46.0,São Paulo,SP,2024-07-09
+718,Lucas Costa,61.0,Rio de Janeiro,RJ,2023-03-27
+719,Bruno Silva,51.0,São Paulo,SP,2024-07-09
+720,Ana Santos,30.0,São Paulo,SP,2025-04-21
+721,Bruno Oliveira,59.0,Campinas,SP,2024-01-10
+722,Ana Pereira,26.0,São Paulo,SP,2024-03-21
+723,Fernanda Pereira,59.0,Salvador,BA,2024-01-13
+724,Gabriel Santos,48.0,Campinas,SP,2024-01-25
+725,Ana Santos,24.0,Campinas,SP,2024-10-18
+726,Daniel Pereira,21.0,Belo Horizonte,MG,2023-02-20
+727,Juliana Souza,36.0,São Paulo,SP,2023-08-30
+728,Gabriel Souza,59.0,Belo Horizonte,MG,2023-10-21
+729,Ana Oliveira,47.0,Curitiba,PR,2025-07-08
+730,Gabriel Costa,48.0,Rio de Janeiro,RJ,2024-07-16
+731,Lucas Oliveira,52.0,Campinas,SP,2023-09-23
+732,Gabriel Costa,74.0,Curitiba,PR,2023-04-30
+733,Gabriel Santos,38.0,Curitiba,PR,2024-12-12
+734,Fernanda Silva,78.0,Salvador,BA,2025-07-05
+735,Daniel Oliveira,48.0,Rio de Janeiro,RJ,2023-09-05
+736,Carla Oliveira,36.0,Curitiba,PR,2023-03-11
+737,Carla Costa,48.0,Curitiba,PR,2025-05-02
+738,Ana Santos,70.0,Rio de Janeiro,RJ,2023-02-26
+739,Gabriel Santos,49.0,Rio de Janeiro,RJ,2024-01-17
+740,Ana Costa,19.0,Curitiba,PR,2023-02-08
+741,Fernanda Santos,76.0,Rio de Janeiro,RJ,2025-03-11
+742,Fernanda Pereira,69.0,Curitiba,PR,2024-03-18
+743,Bruno Souza,27.0,Curitiba,PR,2023-01-18
+744,Lucas Pereira,19.0,Salvador,BA,2025-01-01
+745,Fernanda Silva,19.0,São Paulo,SP,2025-04-04
+746,Bruno Oliveira,77.0,Curitiba,PR,2025-01-25
+747,Daniel Silva,41.0,Belo Horizonte,MG,2023-12-18
+748,Ana Oliveira,34.0,Campinas,SP,2025-03-26
+749,Juliana Souza,49.0,São Paulo,SP,2023-10-25
+750,Daniel Santos,33.0,São Paulo,SP,2023-10-10
+751,Fernanda Pereira,33.0,São Paulo,SP,2024-08-08
+752,Daniel Costa,63.0,Salvador,BA,2023-04-20
+753,Daniel Pereira,56.0,Curitiba,PR,2023-06-29
+754,Lucas Souza,70.0,Salvador,BA,2025-07-26
+755,Lucas Silva,48.0,Curitiba,PR,2024-06-27
+756,Lucas Costa,60.0,Salvador,BA,2025-01-15
+757,Daniel Santos,41.0,Salvador,BA,2025-03-04
+758,Fernanda Souza,18.0,Campinas,SP,2023-01-25
+759,Juliana Costa,28.0,Belo Horizonte,MG,2025-04-22
+760,Gabriel Souza,72.0,Salvador,BA,2025-03-01
+761,Daniel Souza,38.0,Campinas,SP,2025-01-07
+762,Bruno Santos,21.0,Rio de Janeiro,RJ,2023-02-26
+763,Fernanda Oliveira,24.0,Belo Horizonte,MG,2023-06-29
+764,Daniel Costa,43.0,Salvador,BA,2023-08-20
+765,Juliana Santos,64.0,São Paulo,SP,2025-06-12
+766,Gabriel Souza,67.0,Rio de Janeiro,RJ,2023-12-09
+767,Lucas Santos,29.0,Rio de Janeiro,RJ,2024-04-21
+768,Fernanda Oliveira,48.0,Campinas,SP,2025-03-09
+769,Carla Pereira,34.0,Rio de Janeiro,RJ,2024-07-29
+770,Gabriel Costa,50.0,Belo Horizonte,MG,2024-03-30
+771,Bruno Oliveira,28.0,Salvador,BA,2023-08-20
+772,Daniel Silva,45.0,Salvador,BA,2023-10-16
+773,Juliana Costa,49.0,São Paulo,SP,2023-08-01
+774,Carla Oliveira,18.0,Campinas,SP,2023-09-15
+775,Juliana Souza,64.0,São Paulo,SP,2024-06-13
+776,Carla Costa,45.0,Rio de Janeiro,RJ,2024-11-17
+777,Fernanda Costa,70.0,São Paulo,SP,2025-07-17
+778,Carla Santos,59.0,Belo Horizonte,MG,2023-08-17
+779,Bruno Souza,24.0,Salvador,BA,2023-08-14
+780,Bruno Silva,19.0,Rio de Janeiro,RJ,2024-08-18
+781,Ana Pereira,,São Paulo,SP,2025-03-13
+782,Bruno Oliveira,41.0,Campinas,SP,2024-03-10
+783,Gabriel Santos,21.0,Belo Horizonte,MG,2025-05-31
+784,Carla Oliveira,61.0,Belo Horizonte,MG,2025-01-27
+785,Bruno Silva,36.0,São Paulo,SP,2024-02-06
+786,Fernanda Silva,43.0,Salvador,BA,2024-09-13
+787,Juliana Costa,28.0,São Paulo,SP,2025-02-04
+788,Lucas Silva,57.0,Rio de Janeiro,RJ,2023-03-29
+789,Juliana Oliveira,67.0,São Paulo,SP,2024-08-06
+790,Ana Souza,60.0,Belo Horizonte,MG,2025-06-11
+791,Juliana Souza,28.0,São Paulo,SP,2024-06-25
+792,Carla Costa,62.0,Salvador,BA,2024-11-14
+793,Ana Pereira,20.0,Campinas,SP,2023-11-05
+794,Carla Oliveira,29.0,Sao Paulo,PR,2025-06-24
+795,Fernanda Oliveira,20.0,São Paulo,SP,2023-12-09
+796,Ana Silva,59.0,Salvador,BA,2024-03-11
+797,Daniel Oliveira,44.0,Salvador,BA,2023-06-26
+798,Gabriel Santos,66.0,Campinas,SP,2023-05-19
+799,Gabriel Pereira,71.0,Belo Horizonte,MG,2023-07-13
+800,Carla Silva,19.0,Salvador,BA,2023-07-05
+801,Juliana Santos,66.0,Salvador,BA,2023-08-06
+802,Lucas Costa,33.0,Salvador,BA,2023-06-13
+803,Lucas Souza,19.0,Salvador,BA,2023-06-10
+804,Daniel Costa,77.0,Rio de Janeiro,RJ,2025-07-31
+805,Ana Souza,71.0,Rio de Janeiro,RJ,2024-06-08
+806,Daniel Costa,47.0,Belo Horizonte,MG,2025-03-18
+807,Daniel Oliveira,37.0,São Paulo,SP,2024-08-23
+808,Juliana Santos,55.0,Salvador,BA,2025-04-15
+809,Lucas Souza,45.0,Campinas,SP,2023-02-11
+810,Ana Silva,42.0,São Paulo,SP,2025-07-03
+811,Fernanda Santos,49.0,Campinas,SP,2023-07-29
+812,Juliana Silva,78.0,São Paulo,SP,2025-01-10
+813,Daniel Santos,27.0,Belo Horizonte,MG,2025-05-11
+814,Daniel Santos,77.0,Salvador,BA,2023-10-02
+815,Fernanda Costa,59.0,Salvador,BA,2023-10-06
+816,Daniel Souza,57.0,Curitiba,PR,2023-09-08
+817,Daniel Souza,50.0,Campinas,SP,2023-11-06
+818,Daniel Santos,30.0,São Paulo,SP,2024-12-20
+819,Gabriel Oliveira,73.0,São Paulo,SP,2025-04-12
+820,Juliana Oliveira,58.0,Rio de Janeiro,RJ,2023-05-20
+821,Bruno Silva,71.0,Curitiba,PR,2025-03-02
+822,Juliana Silva,59.0,Rio de Janeiro,RJ,2024-06-29
+823,Fernanda Costa,64.0,Rio de Janeiro,RJ,2025-03-31
+824,Daniel Santos,54.0,Rio de Janeiro,RJ,2025-06-22
+825,Juliana Silva,71.0,Campinas,SP,2024-06-13
+826,Gabriel Silva,33.0,Sao Paulo,SP,2023-02-26
+827,Lucas Pereira,62.0,Belo Horizonte,MG,2023-04-22
+828,Fernanda Santos,39.0,Belo Horizonte,MG,2023-01-05
+829,Carla Costa,74.0,Rio de Janeiro,RJ,2024-02-14
+830,Juliana Silva,37.0,Curitiba,PR,2024-02-18
+831,Carla Costa,120.0,São Paulo,SP,2023-07-01
+832,Daniel Souza,60.0,Campinas,SP,2023-01-13
+833,Gabriel Costa,44.0,Curitiba,PR,2023-12-05
+834,Gabriel Oliveira,58.0,Salvador,BA,2025-03-07
+835,Juliana Oliveira,33.0,Campinas,SP,2023-09-16
+836,Fernanda Costa,51.0,Campinas,SP,2023-03-31
+837,Fernanda Oliveira,49.0,Belo Horizonte,MG,2024-09-07
+838,Gabriel Souza,43.0,São Paulo,SP,2025-06-09
+839,Fernanda Santos,42.0,São Paulo,SP,2024-11-28
+840,Gabriel Oliveira,19.0,Salvador,BA,2023-09-07
+841,Juliana Oliveira,29.0,Salvador,BA,2023-09-12
+842,Bruno Costa,57.0,Campinas,SP,2024-08-10
+843,Gabriel Souza,26.0,Rio de Janeiro,RJ,2025-06-16
+844,Carla Santos,29.0,Belo Horizonte,MG,2023-04-18
+845,Fernanda Costa,43.0,Belo Horizonte,MG,2024-10-29
+846,Gabriel Costa,26.0,Campinas,SP,2024-08-16
+847,Gabriel Pereira,27.0,Curitiba,PR,2024-08-11
+848,Juliana Souza,49.0,Rio de Janeiro,RJ,2024-04-29
+849,Fernanda Santos,74.0,Campinas,SP,2023-09-15
+850,Bruno Souza,51.0,Rio de Janeiro,RJ,2024-09-30
+851,Juliana Santos,65.0,Rio de Janeiro,RJ,2025-06-21
+852,Bruno Souza,37.0,Rio de Janeiro,RJ,2023-10-09
+853,Lucas Costa,56.0,Campinas,SP,2023-03-29
+854,Juliana Costa,77.0,Belo Horizonte,MG,2023-07-23
+855,Fernanda Silva,19.0,Belo Horizonte,MG,2023-01-16
+856,Ana Oliveira,18.0,Rio de Janeiro,RJ,2023-05-31
+857,Fernanda Pereira,68.0,Curitiba,PR,2025-07-24
+858,Fernanda Souza,77.0,São Paulo,SP,2023-09-11
+859,Bruno Pereira,53.0,Campinas,SP,2023-07-07
+860,Bruno Silva,41.0,São Paulo,SP,2023-11-25
+861,Fernanda Oliveira,71.0,Curitiba,PR,2024-06-27
+862,Fernanda Souza,44.0,Campinas,SP,2025-02-21
+863,Fernanda Santos,19.0,Rio de Janeiro,RJ,2024-02-01
+864,Bruno Oliveira,48.0,Belo Horizonte,MG,2024-05-31
+865,Fernanda Costa,74.0,São Paulo,SP,2024-04-03
+866,Fernanda Silva,31.0,Salvador,BA,2023-11-26
+867,Lucas Oliveira,19.0,Salvador,BA,2025-03-30
+868,Daniel Oliveira,46.0,Curitiba,PR,2025-04-24
+869,Ana Costa,32.0,Rio de Janeiro,RJ,2023-06-18
+870,Carla Souza,29.0,São Paulo,SP,2024-11-23
+871,Ana Santos,54.0,Rio de Janeiro,RJ,2024-01-01
+872,Daniel Costa,45.0,São Paulo,SP,2023-06-27
+873,Carla Santos,37.0,Sao Paulo,PR,2024-10-16
+874,Juliana Souza,78.0,Curitiba,PR,2023-12-28
+875,Fernanda Oliveira,56.0,Salvador,BA,2025-01-29
+876,Daniel Santos,41.0,Rio de Janeiro,RJ,2024-09-30
+877,Lucas Silva,38.0,Sao Paulo,SP,2025-02-13
+878,Juliana Silva,27.0,Salvador,BA,2023-02-09
+879,Fernanda Costa,63.0,Rio de Janeiro,RJ,2025-07-12
+880,Bruno Souza,31.0,Salvador,BA,2024-02-20
+881,Gabriel Costa,54.0,Campinas,SP,2023-12-21
+882,Daniel Costa,35.0,Belo Horizonte,MG,2023-09-12
+883,Bruno Pereira,41.0,Belo Horizonte,MG,2023-05-23
+884,Daniel Costa,31.0,Belo Horizonte,MG,2025-01-21
+885,Lucas Pereira,51.0,Belo Horizonte,MG,2025-01-09
+886,Daniel Silva,75.0,São Paulo,SP,2025-05-02
+887,Bruno Silva,29.0,Belo Horizonte,MG,2024-12-10
+888,Lucas Costa,39.0,Campinas,SP,2024-07-30
+889,Carla Silva,73.0,Curitiba,PR,2025-06-18
+890,Ana Souza,23.0,Curitiba,PR,2023-01-11
+891,Fernanda Pereira,53.0,São Paulo,SP,2024-09-11
+892,Daniel Pereira,62.0,Belo Horizonte,MG,2023-01-26
+893,Fernanda Costa,53.0,Belo Horizonte,MG,2024-02-25
+894,Gabriel Silva,,Belo Horizonte,MG,2024-10-24
+895,Bruno Santos,31.0,Salvador,BA,2023-08-09
+896,Fernanda Pereira,33.0,Rio de Janeiro,RJ,2025-05-02
+897,Bruno Costa,78.0,Salvador,BA,2024-05-10
+898,Fernanda Costa,53.0,Rio de Janeiro,RJ,2023-08-25
+899,Ana Souza,73.0,Belo Horizonte,MG,2023-08-25
+900,Ana Oliveira,42.0,Belo Horizonte,MG,2023-08-07
+901,Lucas Oliveira,49.0,Salvador,BA,2024-05-01
+902,Ana Pereira,50.0,Salvador,BA,2025-07-24
+903,Lucas Souza,62.0,Rio de Janeiro,RJ,2024-04-05
+904,Ana Souza,53.0,Curitiba,PR,2024-10-24
+905,Ana Souza,37.0,Rio de Janeiro,RJ,2024-09-26
+906,Ana Pereira,35.0,Salvador,BA,2023-05-24
+907,Bruno Oliveira,55.0,Campinas,SP,2023-07-08
+908,Daniel Souza,20.0,Sao Paulo,BA,2023-09-12
+909,Lucas Silva,40.0,Campinas,SP,2023-03-09
+910,Fernanda Costa,49.0,São Paulo,SP,2024-09-07
+911,Ana Costa,62.0,Salvador,BA,2023-12-02
+912,Bruno Santos,76.0,São Paulo,SP,2024-11-01
+913,Bruno Santos,33.0,Curitiba,PR,2025-03-31
+914,Bruno Pereira,76.0,Rio de Janeiro,RJ,2025-05-23
+915,Lucas Pereira,22.0,Campinas,SP,2024-02-13
+916,Daniel Costa,21.0,Rio de Janeiro,RJ,2023-10-27
+917,Lucas Silva,38.0,São Paulo,SP,2025-06-26
+918,Fernanda Oliveira,57.0,Campinas,SP,2024-08-24
+919,Daniel Oliveira,68.0,Rio de Janeiro,RJ,2023-12-23
+920,Carla Pereira,31.0,Salvador,BA,2023-09-13
+921,Juliana Silva,56.0,Belo Horizonte,MG,2023-12-19
+922,Bruno Pereira,48.0,São Paulo,SP,2025-01-01
+923,Lucas Oliveira,31.0,Rio de Janeiro,RJ,2024-06-04
+924,Carla Pereira,23.0,São Paulo,SP,2024-06-07
+925,Gabriel Souza,29.0,São Paulo,SP,2025-04-16
+926,Lucas Pereira,33.0,Campinas,SP,2025-08-07
+927,Ana Costa,34.0,Campinas,SP,2025-01-25
+928,Juliana Pereira,62.0,Belo Horizonte,MG,2024-11-24
+929,Ana Costa,40.0,Salvador,BA,2023-10-11
+930,Daniel Silva,31.0,São Paulo,SP,2023-11-08
+931,Juliana Oliveira,78.0,Rio de Janeiro,RJ,2023-04-09
+932,Lucas Santos,24.0,Curitiba,PR,2023-07-16
+933,Fernanda Santos,63.0,São Paulo,SP,2024-04-26
+934,Carla Oliveira,49.0,São Paulo,SP,2025-05-27
+935,Fernanda Santos,32.0,Belo Horizonte,MG,2023-08-14
+936,Lucas Pereira,61.0,Salvador,BA,2025-04-24
+937,Daniel Silva,34.0,Curitiba,PR,2024-09-06
+938,Ana Silva,58.0,Campinas,SP,2024-09-09
+939,Juliana Oliveira,71.0,Campinas,SP,2023-12-31
+940,Fernanda Santos,64.0,Rio de Janeiro,RJ,2024-01-03
+941,Lucas Pereira,61.0,Curitiba,PR,2024-07-23
+942,Fernanda Silva,51.0,Campinas,SP,2024-08-12
+943,Lucas Silva,22.0,Rio de Janeiro,RJ,2023-03-16
+944,Ana Souza,62.0,Salvador,BA,2023-02-11
+945,Juliana Souza,44.0,Rio de Janeiro,RJ,2024-02-26
+946,Carla Silva,69.0,Campinas,SP,2025-04-15
+947,Ana Oliveira,40.0,Belo Horizonte,MG,2023-06-30
+948,Fernanda Costa,57.0,Belo Horizonte,MG,2024-06-28
+949,Carla Costa,76.0,Belo Horizonte,MG,2023-03-12
+950,Lucas Pereira,31.0,Campinas,SP,2024-07-21
+951,Carla Silva,32.0,Belo Horizonte,MG,2023-04-15
+952,Lucas Silva,60.0,Curitiba,PR,2023-07-19
+953,Ana Silva,50.0, sao paulo ,BA,2023-04-11
+954,Fernanda Oliveira,70.0,Rio de Janeiro,RJ,2025-02-06
+955,Daniel Souza,48.0,Rio de Janeiro,RJ,2023-11-03
+956,Fernanda Silva,52.0,Campinas,SP,2024-08-08
+957,Lucas Silva,34.0,Belo Horizonte,MG,2024-11-13
+958,Bruno Santos,45.0,Belo Horizonte,MG,2024-01-12
+959,Juliana Oliveira,36.0,São Paulo,SP,2024-10-16
+960,Gabriel Pereira,63.0,Salvador,BA,2024-11-08
+961,Daniel Silva,71.0,Curitiba,PR,2024-02-03
+962,Carla Santos,79.0,Rio de Janeiro,RJ,2025-02-11
+963,Daniel Costa,40.0,São Paulo,SP,2023-08-09
+964,Juliana Pereira,49.0,São Paulo,SP,2024-08-17
+965,Carla Silva,57.0,Campinas,SP,2023-07-01
+966,Juliana Silva,30.0,Rio de Janeiro,RJ,2023-11-03
+967,Carla Santos,76.0,Campinas,SP,2024-06-05
+968,Daniel Oliveira,37.0,Curitiba,PR,2024-01-31
+969,Carla Silva,52.0,São Paulo,SP,2023-01-04
+970,Carla Costa,22.0,São Paulo,SP,2025-05-12
+971,Bruno Silva,26.0,Salvador,BA,2025-07-02
+972,Fernanda Costa,46.0,Curitiba,PR,2025-04-27
+973,Fernanda Pereira,23.0,São Paulo,SP,2025-03-14
+974,Gabriel Pereira,42.0,Curitiba,PR,2023-10-08
+975,Gabriel Souza,48.0,Rio de Janeiro,RJ,2023-08-03
+976,Lucas Souza,39.0,Belo Horizonte,MG,2024-09-01
+977,Lucas Costa,19.0,São Paulo,SP,2024-02-24
+978,Lucas Oliveira,62.0,Salvador,BA,2023-04-11
+979,Bruno Silva,22.0,Rio de Janeiro,RJ,2024-06-04
+980,Gabriel Silva,77.0,Curitiba,PR,2024-07-26
+981,Juliana Souza,44.0,Campinas,SP,2023-11-05
+982,Lucas Costa,42.0,Rio de Janeiro,RJ,2024-10-19
+983,Lucas Silva,25.0,São Paulo,SP,2025-07-27
+984,Daniel Silva,72.0,Curitiba,PR,2025-07-19
+985,Ana Oliveira,18.0,Belo Horizonte,MG,2024-05-24
+986,Juliana Santos,37.0,Rio de Janeiro,RJ,2023-03-04
+987,Lucas Souza,61.0,São Paulo,SP,2024-09-24
+988,Lucas Souza,40.0,Salvador,BA,2023-08-14
+989,Lucas Santos,49.0,Sao Paulo,SP,2023-04-15
+990,Ana Silva,28.0,Curitiba,PR,2025-02-10
+991,Ana Oliveira,56.0,Rio de Janeiro,RJ,2025-05-10
+992,Bruno Oliveira,64.0,Rio de Janeiro,RJ,2024-02-29
+993,Juliana Souza,71.0,Belo Horizonte,MG,2023-09-12
+994,Bruno Oliveira,41.0,Belo Horizonte,MG,2024-03-04
+995,Carla Pereira,28.0,Salvador,BA,2024-03-09
+996,Ana Santos,46.0,Campinas,SP,2023-07-26
+997,Daniel Silva,71.0,Salvador,BA,2023-01-28
+998,Gabriel Pereira,43.0,São Paulo,SP,2024-11-12
+999,Daniel Santos,33.0,São Paulo,SP,2023-12-02
+1000,Gabriel Costa,52.0,Salvador,BA,2024-08-10
+1001,Ana Souza,37.0,Campinas,SP,2024-09-19
+1002,Ana Oliveira,63.0,Salvador,BA,2023-03-10
+1003,Ana Costa,20.0,Campinas,SP,2025-05-15
+1004,Bruno Oliveira,18.0,Campinas,SP,2025-01-15
+1005,Juliana Pereira,75.0,Curitiba,PR,2024-05-27
+1006,Gabriel Silva,70.0,Campinas,SP,2023-06-16
+1007,Juliana Silva,64.0,Belo Horizonte,MG,2025-05-13
+1008,Bruno Silva,18.0,Campinas,SP,2024-12-30
+1009,Bruno Oliveira,34.0,Campinas,SP,2025-02-23
+1010,Fernanda Costa,19.0,Campinas,SP,2024-01-03
+1011,Daniel Silva,46.0,São Paulo,SP,2023-09-08
+1012,Daniel Costa,37.0,Belo Horizonte,MG,2025-05-08
+1013,Carla Oliveira,23.0,Belo Horizonte,MG,2025-05-05
+1014,Lucas Pereira,25.0,Salvador,BA,2025-07-19
+1015,Bruno Costa,46.0,Curitiba,PR,2024-11-16
+1016,Gabriel Pereira,65.0,Campinas,SP,2023-06-19
+1017,Fernanda Oliveira,68.0,Rio de Janeiro,RJ,2025-01-27
+1018,Fernanda Oliveira,50.0,Curitiba,PR,2025-07-23
+1019,Lucas Souza,20.0,Curitiba,PR,2023-03-31
+1020,Juliana Oliveira,77.0,Belo Horizonte,MG,2024-07-14
+1021,Lucas Oliveira,52.0,Curitiba,PR,2024-03-21
+1022,Lucas Santos,22.0,Campinas,SP,2023-10-21
+1023,Lucas Silva,44.0,Campinas,SP,2025-07-07
+1024,Daniel Souza,61.0,São Paulo,SP,2023-05-30
+1025,Bruno Souza,29.0,Campinas,SP,2023-05-12
+1026,Carla Souza,37.0,Campinas,SP,2024-03-08
+1027,Bruno Santos,-5.0,Belo Horizonte,MG,2023-02-28
+1028,Juliana Pereira,37.0,Campinas,SP,2025-04-15
+1029,Ana Oliveira,26.0,São Paulo,SP,2023-07-18
+1030,Lucas Silva,56.0,Rio de Janeiro,RJ,2023-08-03
+1031,Bruno Costa,21.0,Belo Horizonte,MG,2025-06-16
+1032,Juliana Pereira,68.0,Rio de Janeiro,RJ,2024-07-14
+1033,Ana Oliveira,71.0,Belo Horizonte,MG,2024-04-16
+1034,Ana Santos,36.0,Salvador,BA,2025-01-13
+1035,Lucas Oliveira,55.0,Curitiba,PR,2023-09-04
+1036,Carla Oliveira,150.0,Salvador,BA,2024-01-17
+1037,Gabriel Santos,62.0,Campinas,SP,2023-08-27
+1038,Daniel Souza,60.0,Rio de Janeiro,RJ,2025-07-15
+1039,Bruno Souza,30.0,Campinas,SP,2024-01-02
+1040,Ana Silva,30.0,Curitiba,PR,2023-06-17
+1041,Bruno Silva,77.0,Belo Horizonte,MG,2024-07-13
+1042,Gabriel Souza,74.0,Curitiba,PR,2023-02-20
+1043,Daniel Pereira,39.0,São Paulo,SP,2025-03-21
+1044,Gabriel Costa,45.0,Curitiba,PR,2024-09-01
+1045,Daniel Oliveira,69.0,São Paulo,SP,2024-12-28
+1046,Fernanda Costa,64.0,Curitiba,PR,2024-11-19
+1047,Daniel Oliveira,70.0,São Paulo,SP,2024-01-15
+1048,Lucas Souza,62.0,Rio de Janeiro,RJ,2024-04-18
+1049,Carla Silva,39.0,Campinas,SP,2023-03-21
+1050,Gabriel Pereira,60.0,Campinas,SP,2024-11-27
+1051,Ana Silva,36.0,Salvador,BA,2024-01-02
+1052,Lucas Costa,25.0,Campinas,SP,2024-04-05
+1053,Fernanda Silva,69.0,Belo Horizonte,MG,2025-06-29
+1054,Carla Souza,25.0,Curitiba,PR,2024-06-22
+1055,Bruno Pereira,59.0,Salvador,BA,2024-03-27
+1056,Lucas Costa,43.0,Belo Horizonte,MG,2024-04-08
+1057,Gabriel Pereira,65.0,Belo Horizonte,MG,2024-04-22
+1058,Juliana Oliveira,68.0,São Paulo,SP,2025-07-14
+1059,Juliana Silva,43.0,Campinas,SP,2024-02-24
+1060,Ana Pereira,40.0,Rio de Janeiro,RJ,2024-12-07
+1061,Daniel Santos,60.0,Rio de Janeiro,RJ,2023-08-02
+1062,Ana Silva,30.0,Salvador,BA,2024-01-04
+1063,Juliana Oliveira,45.0,Rio de Janeiro,RJ,2025-05-03
+1064,Bruno Pereira,26.0,Curitiba,PR,2023-04-24
+1065,Fernanda Costa,37.0,Rio de Janeiro,RJ,2025-01-23
+1066,Fernanda Oliveira,73.0,Salvador,BA,2024-05-17
+1067,Gabriel Santos,36.0,Rio de Janeiro,RJ,2024-09-27
+1068,Fernanda Pereira,65.0,Curitiba,PR,2025-03-27
+1069,Gabriel Souza,56.0,São Paulo,SP,2024-08-10
+1070,Lucas Silva,68.0,Salvador,BA,2023-11-07
+1071,Gabriel Costa,29.0,São Paulo,SP,2024-04-13
+1072,Lucas Souza,32.0,São Paulo,SP,2025-04-03
+1073,Gabriel Pereira,48.0,São Paulo,SP,2024-12-08
+1074,Juliana Pereira,72.0,Belo Horizonte,MG,2025-05-12
+1075,Juliana Oliveira,31.0,Campinas,SP,2023-02-13
+1076,Daniel Pereira,28.0,Belo Horizonte,MG,2024-02-19
+1077,Lucas Costa,43.0,Campinas,SP,2024-11-28
+1078,Carla Souza,59.0,São Paulo,SP,2025-05-04
+1079,Lucas Costa,44.0,Salvador,BA,2023-09-03
+1080,Gabriel Santos,28.0,Campinas,SP,2025-08-06
+1081,Gabriel Santos,55.0,Curitiba,PR,2023-03-25
+1082,Carla Silva,51.0,Curitiba,PR,2023-07-26
+1083,Ana Silva,60.0,Rio de Janeiro,RJ,2023-05-31
+1084,Gabriel Santos,36.0,Campinas,SP,2024-10-29
+1085,Daniel Pereira,23.0,Salvador,BA,2024-06-11
+1086,Fernanda Costa,63.0,Belo Horizonte,MG,2023-06-14
+1087,Fernanda Santos,69.0,São Paulo,SP,2025-07-05
+1088,Bruno Silva,55.0,Rio de Janeiro,RJ,2023-05-25
+1089,Bruno Santos,66.0,Curitiba,PR,2023-02-06
+1090,Fernanda Pereira,59.0,Belo Horizonte,MG,2023-11-29
+1091,Fernanda Santos,45.0,Belo Horizonte,MG,2024-02-07
+1092,Juliana Costa,18.0,São Paulo,SP,2024-02-18
+1093,Daniel Souza,52.0,Campinas,SP,2023-02-14
+1094,Carla Pereira,57.0,Curitiba,PR,2024-02-06
+1095,Bruno Silva,25.0,Salvador,BA,2023-07-25
+1096,Juliana Costa,76.0,Belo Horizonte,MG,2023-03-03
+1097,Juliana Santos,69.0,São Paulo,SP,2024-02-24
+1098,Carla Santos,71.0,Salvador,BA,2025-05-17
+1099,Juliana Souza,64.0,Campinas,SP,2024-04-12
+1100,Lucas Silva,73.0,Curitiba,PR,2025-03-30
+1101,Daniel Silva,24.0,Campinas,SP,2023-01-19
+1102,Fernanda Oliveira,28.0,Belo Horizonte,MG,2023-12-31
+1103,Gabriel Silva,56.0,Salvador,BA,2023-10-27
+1104,Carla Souza,78.0,Salvador,BA,2023-01-07
+1105,Fernanda Oliveira,21.0,Salvador,BA,2025-01-30
+1106,Fernanda Oliveira,42.0,Belo Horizonte,MG,2024-03-03
+1107,Ana Santos,29.0,Belo Horizonte,MG,2023-04-27
+1108,Lucas Santos,43.0,Campinas,SP,2024-08-02
+1109,Carla Silva,55.0,Rio de Janeiro,RJ,2024-05-21
+1110,Juliana Oliveira,63.0,Campinas,SP,2024-06-29
+1111,Gabriel Santos,29.0,Curitiba,PR,2024-12-06
+1112,Carla Souza,60.0,São Paulo,SP,2023-11-21
+1113,Juliana Santos,68.0,Salvador,BA,2023-02-24
+1114,Fernanda Pereira,70.0,Rio de Janeiro,RJ,2025-02-16
+1115,Gabriel Pereira,54.0,São Paulo,SP,2023-02-11
+1116,Juliana Santos,63.0,Rio de Janeiro,RJ,2023-10-24
+1117,Daniel Oliveira,70.0,Campinas,,2023-08-19
+1118,Juliana Oliveira,41.0,Belo Horizonte,MG,2024-03-28
+1119,Ana Costa,33.0,Salvador,BA,2025-06-08
+1120,Lucas Pereira,74.0,Campinas,SP,2024-01-29
+1121,Fernanda Souza,30.0,São Paulo,SP,2024-06-05
+1122,Juliana Oliveira,42.0,São Paulo,SP,2023-12-24
+1123,Lucas Silva,78.0,São Paulo,SP,2024-03-19
+1124,Bruno Pereira,71.0,São Paulo,SP,2023-05-08
+1125,Bruno Souza,71.0,São Paulo,SP,2024-11-21
+1126,Lucas Souza,74.0,Rio de Janeiro,RJ,2024-02-09
+1127,Lucas Oliveira,69.0,Campinas,SP,2024-01-27
+1128,Ana Souza,71.0,Salvador,XX,2023-07-12
+1129,Daniel Oliveira,21.0,Belo Horizonte,MG,2024-08-26
+1130,Fernanda Santos,28.0,Belo Horizonte,MG,2025-05-30
+1131,Carla Pereira,49.0,Campinas,SP,2025-01-12
+1132,Ana Costa,66.0,Campinas,SP,2023-03-19
+1133,Daniel Santos,24.0,Belo Horizonte,MG,2023-03-26
+1134,Lucas Pereira,63.0,Belo Horizonte,MG,2023-01-30
+1135,Carla Oliveira,75.0,Sao Paulo,RJ,2024-12-25
+1136,Lucas Pereira,28.0,Curitiba,PR,2023-02-18
+1137,Lucas Oliveira,45.0,Salvador,BA,2025-02-15
+1138,Bruno Santos,71.0,São Paulo,SP,2023-05-25
+1139,Bruno Silva,58.0,Curitiba,PR,2023-03-10
+1140,Carla Silva,40.0,Campinas,SP,2023-02-27
+1141,Ana Pereira,62.0,Belo Horizonte,MG,2024-11-27
+1142,Bruno Silva,40.0,Curitiba,PR,2024-07-27
+1143,Fernanda Oliveira,67.0,Salvador,BA,2024-04-23
+1144,Lucas Souza,45.0,Campinas,SP,2025-03-30
+1145,Gabriel Oliveira,60.0,São Paulo,SP,2024-03-20
+1146,Juliana Souza,64.0,São Paulo,SP,2023-10-23
+1147,Carla Santos,74.0,Salvador,BA,2024-11-08
+1148,Carla Costa,43.0,Salvador,BA,2023-06-20
+1149,Bruno Souza,42.0,Belo Horizonte,MG,2024-07-28
+1150,Ana Silva,71.0,São Paulo,SP,2023-05-27
+1151,Lucas Oliveira,46.0,Campinas,SP,2024-04-28
+1152,Fernanda Santos,36.0,Curitiba,PR,2023-11-02
+1153,Ana Silva,50.0,Campinas,SP,2024-11-03
+1154,Daniel Santos,53.0,Rio de Janeiro,RJ,2024-10-14
+1155,Daniel Costa,31.0,Rio de Janeiro,RJ,2025-04-25
+1156,Gabriel Oliveira,31.0,Salvador,BA,2024-08-31
+1157,Bruno Pereira,52.0,Belo Horizonte,MG,2024-03-21
+1158,Bruno Oliveira,47.0,Rio de Janeiro,RJ,2023-08-09
+1159,Bruno Costa,45.0,São Paulo,SP,2024-07-08
+1160,Gabriel Oliveira,34.0,Campinas,SP,2025-08-02
+1161,Daniel Pereira,20.0,Campinas,SP,2025-03-14
+1162,Ana Souza,33.0,Salvador,BA,2024-01-13
+1163,Gabriel Santos,63.0,Curitiba,PR,2024-09-11
+1164,Gabriel Pereira,47.0,Salvador,BA,2023-09-23
+1165,Ana Silva,69.0,Curitiba,PR,2023-04-05
+1166,Bruno Costa,46.0,Salvador,BA,2023-09-19
+1167,Fernanda Souza,62.0,Salvador,BA,2025-04-04
+1168,Ana Silva,32.0,Salvador,BA,2025-06-15
+1169,Daniel Silva,63.0,Curitiba,PR,2023-03-12
+1170,Carla Costa,73.0,Curitiba,PR,2023-08-07
+1171,Lucas Souza,42.0,Salvador,BA,2024-06-16
+1172,Carla Silva,68.0,Rio de Janeiro,RJ,2023-04-02
+1173,Juliana Silva,55.0,Belo Horizonte,MG,2023-05-07
+1174,Juliana Souza,59.0,Sao Paulo,MG,2023-03-21
+1175,Gabriel Oliveira,76.0,Belo Horizonte,MG,2025-04-03
+1176,Lucas Silva,64.0,Curitiba,PR,2023-08-26
+1177,Carla Santos,70.0,Curitiba,PR,2024-01-07
+1178,Fernanda Souza,71.0,Rio de Janeiro,RJ,2025-07-04
+1179,Bruno Silva,69.0,Belo Horizonte,MG,2024-04-30
+1180,Daniel Costa,75.0,Belo Horizonte,MG,2024-11-24
+1181,Juliana Pereira,55.0,Salvador,BA,2023-01-25
+1182,Fernanda Santos,40.0,Curitiba,PR,2023-06-05
+1183,Daniel Pereira,42.0,Belo Horizonte,MG,2024-05-31
+1184,Daniel Pereira,59.0,Campinas,SP,2024-09-23
+1185,Bruno Silva,24.0,Rio de Janeiro,RJ,2025-02-27
+1186,Lucas Santos,39.0,Campinas,SP,2024-06-13
+1187,Gabriel Santos,34.0,Campinas,SP,2025-07-31
+1188,Carla Oliveira,35.0,Rio de Janeiro,RJ,2024-12-10
+1189,Bruno Pereira,66.0,Campinas,SP,2023-02-26
+1190,Fernanda Santos,58.0,Belo Horizonte,MG,2024-08-27
+1191,Gabriel Oliveira,27.0,Curitiba,PR,2023-01-19
+1192,Fernanda Souza,27.0,Rio de Janeiro,RJ,2024-01-19
+1193,Gabriel Oliveira,74.0,Salvador,BA,2025-05-14
+1194,Lucas Costa,24.0,Campinas,SP,2023-07-12
+1195,Juliana Silva,65.0,Rio de Janeiro,RJ,2023-08-25
+1196,Fernanda Souza,78.0,São Paulo,SP,2024-01-22
+1197,Bruno Souza,67.0,São Paulo,SP,2024-03-01
+1198,Gabriel Costa,55.0,Curitiba,PR,2023-10-04
+1199,Gabriel Oliveira,44.0,Belo Horizonte,MG,2023-08-15
+1200,Daniel Silva,69.0,Curitiba,PR,2025-01-14
+1201,Daniel Oliveira,50.0,Curitiba,PR,2024-07-05
+1202,Ana Santos,18.0,Curitiba,PR,2023-11-19
+1203,Fernanda Oliveira,61.0,Curitiba,PR,2023-06-02
+1204,Daniel Souza,70.0,Salvador,BA,2024-09-30
+1205,Ana Silva,77.0,Salvador,BA,2023-08-25
+1206,Juliana Oliveira,51.0,Rio de Janeiro,RJ,2023-02-24
+1207,Juliana Silva,21.0,Sao Paulo,SP,2024-03-11
+1208,Daniel Silva,34.0,Curitiba,PR,2024-11-14
+1209,Fernanda Santos,21.0,Rio de Janeiro,RJ,2023-04-19
+1210,Gabriel Santos,60.0,São Paulo,SP,2025-05-15
+1211,Carla Souza,71.0,Campinas,SP,2023-07-03
+1212,Lucas Costa,120.0,Belo Horizonte,MG,2024-01-03
+1213,Fernanda Silva,21.0,Salvador,BA,2023-07-17
+1214,Lucas Costa,18.0,Campinas,SP,2024-01-06
+1215,Bruno Souza,24.0,São Paulo,SP,2024-01-08
+1216,Juliana Silva,47.0,Campinas,SP,2024-05-11
+1217,Daniel Silva,67.0,Belo Horizonte,MG,2024-08-21
+1218,Daniel Pereira,26.0,São Paulo,SP,2023-07-20
+1219,Lucas Costa,78.0,Campinas,SP,2025-04-28
+1220,Gabriel Oliveira,52.0,Salvador,BA,2024-05-23
+1221,Lucas Santos,25.0,Salvador,BA,2023-11-18
+1222,Bruno Oliveira,78.0,Rio de Janeiro,RJ,2023-10-02
+1223,Gabriel Costa,41.0,Campinas,SP,2023-07-30
+1224,Bruno Santos,36.0,Curitiba,PR,2024-05-18
+1225,Carla Oliveira,53.0,Campinas,SP,2025-06-21
+1226,Juliana Pereira,67.0,São Paulo,SP,2023-04-28
+1227,Daniel Santos,69.0,São Paulo,SP,2024-12-03
+1228,Daniel Silva,76.0,Campinas,SP,2024-07-07
+1229,Carla Oliveira,,Belo Horizonte,MG,2023-02-11
+1230,Ana Santos,44.0,Salvador,BA,2023-11-11
+1231,Juliana Pereira,49.0,São Paulo,SP,2025-02-26
+1232,Gabriel Santos,31.0,Salvador,BA,2023-11-25
+1233,Carla Santos,74.0,São Paulo,SP,2023-01-17
+1234,Gabriel Pereira,35.0,Rio de Janeiro,RJ,2023-10-10
+1235,Lucas Oliveira,45.0,Curitiba,PR,2025-07-31
+1236,Fernanda Souza,77.0,São Paulo,,2023-09-15
+1237,Daniel Oliveira,46.0,Salvador,BA,2024-07-28
+1238,Gabriel Costa,33.0,Rio de Janeiro,RJ,2024-07-27
+1239,Bruno Pereira,52.0,São Paulo,SP,2024-09-03
+1240,Gabriel Oliveira,64.0,Belo Horizonte,MG,2023-01-19
+1241,Fernanda Santos,76.0,Curitiba,PR,2024-06-12
+1242,Juliana Pereira,76.0,São Paulo,SP,2025-04-16
+1243,Daniel Silva,48.0,Rio de Janeiro,RJ,2024-02-27
+1244,Lucas Oliveira,21.0,Belo Horizonte,MG,2024-04-10
+1245,Carla Pereira,54.0,Campinas,SP,2024-01-08
+1246,Lucas Oliveira,34.0,Rio de Janeiro,RJ,2025-01-27
+1247,Fernanda Pereira,56.0,Rio de Janeiro,RJ,2025-02-01
+1248,Daniel Santos,65.0,Belo Horizonte,MG,2023-03-22
+1249,Gabriel Silva,63.0,Rio de Janeiro,RJ,2024-07-04
+1250,Juliana Silva,43.0,Belo Horizonte,MG,2024-07-01
+1251,Ana Costa,65.0,São Paulo,SP,2024-02-28
+1252,Juliana Pereira,56.0,Belo Horizonte,MG,2024-03-04
+1253,Ana Oliveira,58.0,Belo Horizonte,MG,2024-01-23
+1254,Bruno Silva,21.0,Curitiba,PR,2025-07-09
+1255,Juliana Silva,47.0,Belo Horizonte,MG,2024-12-09
+1256,Daniel Souza,47.0,Belo Horizonte,MG,2024-10-31
+1257,Ana Souza,39.0,Campinas,SP,2023-07-23
+1258,Carla Silva,28.0,São Paulo,SP,2023-07-15
+1259,Daniel Pereira,19.0,Curitiba,PR,2024-12-28
+1260,Carla Costa,61.0,Campinas,SP,2023-10-12
+1261,Juliana Silva,29.0,Salvador,BA,2023-07-15
+1262,Carla Santos,47.0,São Paulo,SP,2023-11-03
+1263,Ana Oliveira,53.0,São Paulo,SP,2024-10-25
+1264,Daniel Costa,35.0,Salvador,BA,2023-01-14
+1265,Gabriel Santos,150.0,Belo Horizonte,MG,2025-04-16
+1266,Fernanda Costa,70.0,Campinas,SP,2023-05-26
+1267,Ana Santos,24.0,Rio de Janeiro,RJ,2025-07-26
+1268,Ana Oliveira,78.0,Curitiba,PR,2023-02-26
+1269,Gabriel Oliveira,18.0,Rio de Janeiro,RJ,2024-12-23
+1270,Daniel Souza,75.0,Salvador,BA,2025-02-18
+1271,Daniel Pereira,43.0,São Paulo,SP,2023-07-29
+1272,Lucas Santos,40.0,São Paulo,SP,2024-06-12
+1273,Juliana Souza,43.0,Curitiba,PR,2025-03-08
+1274,Carla Santos,62.0,São Paulo,SP,2023-12-10
+1275,Juliana Souza,120.0,São Paulo,SP,2024-12-15
+1276,Gabriel Oliveira,23.0,Curitiba,RJ,2024-09-02
+1277,Juliana Costa,61.0,Campinas,SP,2023-10-06
+1278,Gabriel Souza,25.0,Campinas,SP,2023-07-28
+1279,Daniel Santos,41.0,Curitiba,PR,2024-10-02
+1280,Carla Santos,39.0,Salvador,BA,2023-12-01
+1281,Juliana Pereira,36.0,São Paulo,SP,2023-10-15
+1282,Ana Oliveira,54.0,São Paulo,SP,2023-09-09
+1283,Bruno Santos,35.0,Salvador,BA,2023-09-22
+1284,Lucas Silva,48.0,Campinas,SP,2023-09-28
+1285,Fernanda Costa,79.0,Belo Horizonte,MG,2025-07-12
+1286,Ana Souza,54.0,Belo Horizonte,MG,2025-07-08
+1287,Daniel Pereira,47.0,Belo Horizonte,MG,2024-11-30
+1288,Fernanda Costa,0.0,Campinas,SP,2024-02-23
+1289,Bruno Oliveira,59.0,Campinas,SP,2024-12-26
+1290,Bruno Pereira,50.0,Salvador,BA,2025-03-05
+1291,Carla Souza,27.0,São Paulo,SP,2023-07-30
+1292,Fernanda Souza,54.0,Salvador,BA,2023-12-31
+1293,Carla Silva,29.0,Salvador,BA,2023-03-17
+1294,Ana Oliveira,71.0,Campinas,SP,2024-10-21
+1295,Gabriel Pereira,47.0,Belo Horizonte,MG,2023-11-17
+1296,Gabriel Pereira,44.0,Rio de Janeiro,RJ,2024-12-25
+1297,Gabriel Santos,56.0,São Paulo,SP,2024-03-08
+1298,Fernanda Silva,26.0,Campinas,SP,2023-04-19
+1299,Gabriel Silva,71.0,Belo Horizonte,MG,2024-10-02
+1300,Ana Pereira,38.0,Rio de Janeiro,RJ,2024-06-05
+1301,Carla Pereira,29.0,Rio de Janeiro,RJ,2023-02-16
+1302,Fernanda Costa,72.0,Campinas,SP,2024-01-14
+1303,Carla Costa,150.0,Curitiba,PR,2025-04-06
+1304,Fernanda Costa,50.0,São Paulo,SP,2023-04-06
+1305,Carla Silva,60.0,Rio de Janeiro,RJ,2023-04-13
+1306,Bruno Santos,79.0,Campinas,SP,2025-06-10
+1307,Carla Souza,70.0,Campinas,SP,2025-05-03
+1308,Gabriel Costa,32.0,Belo Horizonte,MG,2023-05-26
+1309,Bruno Santos,19.0,Curitiba,PR,2025-05-29
+1310,Carla Oliveira,69.0,São Paulo,SP,2025-07-30
+1311,Fernanda Costa,56.0,Salvador,BA,2025-07-16
+1312,Fernanda Souza,70.0,Belo Horizonte,MG,2023-01-27
+1313,Lucas Oliveira,61.0,Rio de Janeiro,RJ,2025-01-01
+1314,Fernanda Oliveira,71.0,Rio de Janeiro,RJ,2024-06-13
+1315,Daniel Souza,35.0,Belo Horizonte,MG,2024-11-09
+1316,Ana Costa,20.0,Campinas,SP,2025-08-02
+1317,Fernanda Silva,24.0,Rio de Janeiro,RJ,2023-03-23
+1318,Bruno Souza,,Curitiba,PR,2024-03-03
+1319,Lucas Souza,35.0,São Paulo,SP,2024-08-06
+1320,Fernanda Souza,61.0,Curitiba,PR,2025-04-01
+1321,Daniel Oliveira,55.0,Rio de Janeiro,RJ,2024-04-23
+1322,Gabriel Santos,,Salvador,BA,2025-02-04
+1323,Bruno Silva,75.0,São Paulo,SP,2023-06-11
+1324,Daniel Costa,50.0,São Paulo,SP,2025-04-18
+1325,Gabriel Costa,61.0,Belo Horizonte,MG,2025-07-20
+1326,Juliana Santos,76.0,Belo Horizonte,MG,2024-02-06
+1327,Juliana Souza,48.0,Salvador,BA,2024-05-22
+1328,Bruno Silva,75.0,Campinas,SP,2023-02-07
+1329,Carla Costa,28.0,São Paulo,SP,2024-05-25
+1330,Ana Pereira,21.0,Salvador,BA,2024-01-28
+1331,Lucas Costa,76.0,Belo Horizonte,MG,2024-12-13
+1332,Ana Souza,35.0,Belo Horizonte,MG,2024-05-08
+1333,Daniel Pereira,21.0,São Paulo,SP,2023-07-19
+1334,Gabriel Santos,66.0,Curitiba,PR,2023-09-12
+1335,Ana Silva,51.0,Rio de Janeiro,RJ,2023-06-28
+1336,Gabriel Santos,46.0,Belo Horizonte,MG,2024-06-30
+1337,Gabriel Santos,,Campinas,SP,2024-08-16
+1338,Daniel Silva,39.0,rio de janeiro,SP,2024-01-24
+1339,Daniel Silva,19.0,Belo Horizonte,MG,2024-02-02
+1340,Daniel Costa,61.0,Curitiba,PR,2025-01-01
+1341,Ana Costa,23.0,Curitiba,PR,2023-06-07
+1342,Juliana Silva,59.0,Salvador,BA,2023-01-04
+1343,Daniel Pereira,42.0,Campinas,SP,2023-06-16
+1344,Lucas Oliveira,72.0,Salvador,BA,2024-04-12
+1345,Ana Costa,74.0,Campinas,SP,2024-02-13
+1346,Daniel Oliveira,38.0,Rio de Janeiro,RJ,2024-02-16
+1347,Fernanda Pereira,72.0,Rio de Janeiro,RJ,2023-07-23
+1348,Gabriel Silva,76.0,São Paulo,SP,2023-07-13
+1349,Lucas Pereira,33.0,Salvador,BA,2023-08-23
+1350,Daniel Costa,48.0,Belo Horizonte,MG,2024-12-18
+1351,Bruno Santos,31.0,Salvador,BA,2023-05-30
+1352,Gabriel Silva,56.0,Belo Horizonte,MG,2023-06-08
+1353,Gabriel Souza,45.0,Curitiba,PR,2023-10-06
+1354,Daniel Oliveira,49.0,Salvador,BA,2025-03-26
+1355,Juliana Pereira,45.0,Curitiba,PR,2024-02-08
+1356,Carla Silva,68.0,Rio de Janeiro,RJ,2025-06-11
+1357,Juliana Pereira,72.0,Rio de Janeiro,RJ,2024-11-08
+1358,Daniel Silva,66.0,São Paulo,SP,2023-11-07
+1359,Gabriel Costa,26.0,Salvador,BA,2023-03-09
+1360,Lucas Costa,75.0,Curitiba,PR,2024-04-07
+1361,Bruno Costa,62.0,Belo Horizonte,MG,2023-03-29
+1362,Lucas Pereira,39.0,Rio de Janeiro,RJ,2023-08-05
+1363,Lucas Souza,49.0,Rio de Janeiro,RJ,2023-01-01
+1364,Gabriel Costa,22.0,Belo Horizonte,MG,2023-05-15
+1365,Juliana Silva,40.0,Curitiba,PR,2024-11-27
+1366,Bruno Costa,22.0,Curitiba,PR,2023-12-17
+1367,Ana Santos,59.0,Salvador,BA,2023-05-20
+1368,Fernanda Costa,70.0,Salvador,BA,2024-09-09
+1369,Gabriel Pereira,49.0,Campinas,SP,2023-05-13
+1370,Daniel Souza,76.0,Campinas,SP,2024-09-11
+1371,Ana Santos,27.0,São Paulo,SP,2023-06-27
+1372,Fernanda Pereira,76.0,Rio de Janeiro,RJ,2025-03-20
+1373,Daniel Pereira,56.0,Salvador,BA,2023-12-24
+1374,Lucas Pereira,75.0,Curitiba,PR,2024-01-15
+1375,Carla Silva,32.0,Belo Horizonte,MG,2025-06-26
+1376,Daniel Pereira,24.0,Curitiba,PR,2025-05-20
+1377,Bruno Silva,46.0,Rio de Janeiro,RJ,2024-10-19
+1378,Bruno Pereira,76.0,Campinas,SP,2024-03-25
+1379,Carla Oliveira,64.0,Curitiba,PR,2024-08-08
+1380,Ana Santos,20.0,São Paulo,SP,2024-04-07
+1381,Fernanda Oliveira,36.0,Rio de Janeiro,RJ,2023-04-18
+1382,Daniel Pereira,27.0,Campinas,SP,2023-05-02
+1383,Bruno Santos,45.0,Belo Horizonte,SP,2023-01-17
+1384,Ana Santos,46.0,Sao Paulo,SP,2023-07-15
+1385,Carla Souza,32.0,São Paulo,SP,2023-11-23
+1386,Juliana Oliveira,52.0,Rio de Janeiro,RJ,2023-11-14
+1387,Gabriel Souza,23.0,Belo Horizonte,MG,2025-03-19
+1388,Juliana Santos,29.0,São Paulo,SP,2024-04-23
+1389,Juliana Silva,64.0,Campinas,SP,2023-09-09
+1390,Bruno Santos,55.0,São Paulo,SP,2024-05-17
+1391,Lucas Souza,30.0,Rio de Janeiro,RJ,2023-04-29
+1392,Lucas Oliveira,46.0,Salvador,BA,2024-11-04
+1393,Carla Pereira,36.0,São Paulo,SP,2024-12-10
+1394,Daniel Pereira,20.0,São Paulo,SP,2024-05-12
+1395,Lucas Oliveira,25.0,Campinas,SP,2024-04-30
+1396,Juliana Pereira,25.0,Campinas,SP,2023-02-14
+1397,Lucas Pereira,72.0,Belo Horizonte,MG,2023-11-10
+1398,Juliana Souza,75.0,Campinas,SP,2023-06-28
+1399,Fernanda Oliveira,37.0,Curitiba,PR,2025-06-12
+1400,Bruno Costa,64.0,Rio de Janeiro,RJ,2024-02-22
+1401,Bruno Silva,21.0,Rio de Janeiro,RJ,2024-07-09
+1402,Daniel Silva,120.0,Salvador,BA,2025-02-21
+1403,Lucas Pereira,38.0,Salvador,BA,2023-03-19
+1404,Lucas Silva,20.0,Rio de Janeiro,RJ,2023-11-22
+1405,Gabriel Oliveira,62.0,Salvador,BA,2024-11-20
+1406,Ana Oliveira,25.0,Belo Horizonte,MG,2023-12-23
+1407,Fernanda Santos,40.0,Campinas,SP,2024-02-20
+1408,Bruno Santos,33.0,Rio de Janeiro,RJ,2024-05-29
+1409,Fernanda Silva,30.0,Salvador,BA,2023-08-02
+1410,Bruno Costa,20.0,Rio de Janeiro,RJ,2025-05-03
+1411,Fernanda Santos,65.0,Curitiba,PR,2023-03-15
+1412,Carla Santos,26.0,São Paulo,SP,2024-07-16
+1413,Juliana Oliveira,77.0,Campinas,SP,2024-08-01
+1414,Bruno Costa,31.0,Rio de Janeiro,RJ,2024-05-23
+1415,Fernanda Pereira,30.0,São Paulo,SP,2023-11-28
+1416,Lucas Silva,70.0,Salvador,BA,2023-04-03
+1417,Ana Santos,74.0,São Paulo,SP,2024-11-18
+1418,Carla Costa,24.0,Campinas,SP,2024-10-18
+1419,Carla Costa,32.0,Rio de Janeiro,RJ,2024-06-02
+1420,Ana Silva,24.0,Curitiba,PR,2023-09-26
+1421,Fernanda Costa,55.0,Salvador,BA,2024-01-11
+1422,Lucas Costa,51.0,Rio de Janeiro,RJ,2025-04-13
+1423,Daniel Costa,58.0,Campinas,SP,2023-01-04
+1424,Ana Santos,39.0,Salvador,BA,2023-05-18
+1425,Fernanda Silva,41.0,Belo Horizonte,MG,2023-08-19
+1426,Ana Costa,66.0,São Paulo,SP,2024-08-22
+1427,Ana Costa,54.0,Campinas,SP,2024-06-12
+1428,Bruno Santos,61.0,Belo Horizonte,MG,2023-02-21
+1429,Fernanda Silva,18.0,Rio de Janeiro,RJ,2024-10-07
+1430,Daniel Oliveira,27.0,Curitiba,PR,2024-12-23
+1431,Juliana Santos,60.0,Salvador,BA,2023-11-21
+1432,Bruno Silva,33.0,São Paulo,SP,2025-06-23
+1433,Ana Costa,63.0,Salvador,BA,2024-12-31
+1434,Juliana Silva,25.0,Rio de Janeiro,RJ,2024-12-17
+1435,Gabriel Silva,73.0,Salvador,BA,2024-12-23
+1436,Juliana Pereira,66.0,São Paulo,SP,2023-10-04
+1437,Ana Silva,42.0,Rio de Janeiro,RJ,2024-06-19
+1438,Ana Oliveira,67.0,Salvador,BA,2024-04-30
+1439,Lucas Silva,29.0,Curitiba,PR,2024-05-30
+1440,Fernanda Oliveira,42.0,Campinas,SP,2023-06-01
+1441,Fernanda Costa,34.0,Rio de Janeiro,RJ,2024-04-27
+1442,Bruno Oliveira,77.0,Campinas,SP,2023-09-16
+1443,Daniel Costa,120.0,Rio de Janeiro,RJ,2023-11-20
+1444,Bruno Costa,63.0,Curitiba,PR,2025-05-18
+1445,Carla Oliveira,65.0,Campinas,SP,2023-06-17
+1446,Ana Santos,,Belo Horizonte,MG,2024-11-18
+1447,Juliana Souza,58.0,São Paulo,SP,2023-11-06
+1448,Gabriel Silva,53.0,Belo Horizonte,MG,2025-03-13
+1449,Ana Pereira,74.0,Salvador,BA,2024-04-23
+1450,Ana Souza,40.0,Curitiba,PR,2023-02-25
+1451,Bruno Silva,60.0,Belo Horizonte,MG,2024-09-11
+1452,Gabriel Silva,23.0,Rio de Janeiro,RJ,2024-04-17
+1453,Gabriel Costa,64.0,Salvador,BA,2023-10-23
+1454,Gabriel Silva,22.0,Salvador,BA,2024-04-05
+1455,Bruno Pereira,60.0,Belo Horizonte,MG,2023-11-20
+1456,Ana Silva,42.0,Belo Horizonte,MG,2025-03-24
+1457,Bruno Oliveira,35.0,Curitiba,PR,2025-04-25
+1458,Fernanda Souza,79.0,São Paulo,SP,2023-05-21
+1459,Fernanda Oliveira,30.0,Belo Horizonte,MG,2024-10-28
+1460,Bruno Pereira,60.0,Belo Horizonte,MG,2023-09-19
+1461,Gabriel Silva,31.0,Campinas,SP,2025-02-23
+1462,Lucas Pereira,45.0,Rio de Janeiro,RJ,2024-02-24
+1463,Ana Costa,35.0,Campinas,SP,2025-01-13
+1464,Bruno Oliveira,76.0,Campinas,SP,2023-08-29
+1465,Bruno Oliveira,77.0,Salvador,BA,2023-12-21
+1466,Bruno Santos,74.0,São Paulo,SP,2025-04-28
+1467,Lucas Silva,45.0,Rio de Janeiro,RJ,2025-02-08
+1468,Lucas Costa,68.0,Curitiba,PR,2025-01-30
+1469,Carla Oliveira,73.0,Curitiba,PR,2024-08-11
+1470,Fernanda Oliveira,44.0,Belo Horizonte,MG,2023-06-29
+1471,Juliana Costa,49.0,Belo Horizonte,MG,2023-03-07
+1472,Gabriel Pereira,64.0,Curitiba,PR,2025-03-30
+1473,Daniel Pereira,26.0,Belo Horizonte,MG,2023-12-14
+1474,Lucas Silva,57.0,São Paulo,SP,2023-06-20
+1475,Juliana Santos,49.0,Campinas,SP,2024-04-18
+1476,Lucas Oliveira,37.0,Belo Horizonte,MG,2024-06-17
+1477,Gabriel Santos,45.0,Salvador,BA,2024-01-02
+1478,Daniel Pereira,50.0,Belo Horizonte,MG,2023-04-17
+1479,Carla Pereira,21.0,Rio de Janeiro,RJ,2024-03-14
+1480,Bruno Souza,63.0,São Paulo,SP,2025-04-14
+1481,Carla Silva,74.0,Rio de Janeiro,RJ,2023-08-15
+1482,Lucas Souza,51.0,Rio de Janeiro,RJ,2024-03-19
+1483,Carla Souza,65.0,Salvador,BA,2024-03-17
+1484,Juliana Souza,20.0,São Paulo,SP,2024-01-31
+1485,Ana Silva,43.0,São Paulo,SP,2024-12-28
+1486,Lucas Silva,25.0,São Paulo,SP,2024-08-03
+1487,Lucas Costa,23.0,São Paulo,SP,2023-03-25
+1488,Juliana Santos,33.0,rio de janeiro,SP,2024-09-06
+1489,Fernanda Santos,41.0,Salvador,BA,2024-07-04
+1490,Daniel Costa,65.0,Belo Horizonte,MG,2023-01-13
+1491,Bruno Costa,56.0,Rio de Janeiro,RJ,2025-03-19
+1492,Juliana Pereira,47.0,São Paulo,SP,2025-04-04
+1493,Daniel Souza,62.0,Belo Horizonte,MG,2024-11-23
+1494,Gabriel Costa,30.0,Belo Horizonte,MG,2024-05-07
+1495,Daniel Oliveira,22.0,Rio de Janeiro,RJ,2023-09-25
+1496,Gabriel Santos,42.0,Salvador,BA,2024-06-08
+1497,Juliana Costa,,Curitiba,PR,2023-04-30
+1498,Lucas Oliveira,71.0,Curitiba,PR,2023-12-19
+1499,Lucas Oliveira,35.0,Belo Horizonte,MG,2023-02-26
+1500,Fernanda Oliveira,64.0,Campinas,SP,2023-02-09
+1501,Juliana Pereira,35.0,Campinas,SP,2025-06-04
+1502,Gabriel Pereira,19.0,Rio de Janeiro,RJ,2023-12-02
+1503,Daniel Oliveira,27.0,Curitiba,PR,2024-10-01
+1504,Daniel Pereira,72.0,Belo Horizonte,MG,2023-06-22
+1505,Gabriel Souza,62.0,Salvador,BA,2024-06-30
+1506,Carla Oliveira,67.0,Curitiba,PR,2023-09-16
+1507,Fernanda Souza,64.0,Belo Horizonte,MG,2025-06-06
+1508,Ana Souza,29.0,Belo Horizonte,MG,2024-05-31
+1509,Lucas Oliveira,64.0,São Paulo,SP,2024-12-30
+1510,Bruno Santos,30.0,Salvador,BA,2024-06-06
+1511,Daniel Oliveira,,São Paulo,SP,2025-06-12
+1512,Bruno Oliveira,64.0,Rio de Janeiro,RJ,2025-04-18
+1513,Ana Pereira,74.0,São Paulo,SP,2023-04-27
+1514,Juliana Oliveira,72.0,São Paulo,SP,2023-07-03
+1515,Bruno Santos,28.0,Curitiba,PR,2025-06-24
+1516,Ana Pereira,36.0,Campinas,SP,2025-05-23
+1517,Lucas Silva,52.0,Belo Horizonte,MG,2023-04-26
+1518,Gabriel Silva,56.0,Salvador,BA,2023-06-11
+1519,Carla Souza,70.0,São Paulo,SP,2024-08-01
+1520,Lucas Souza,43.0,Salvador,BA,2024-12-12
+1521,Daniel Santos,63.0,Campinas,SP,2024-06-26
+1522,Ana Costa,31.0,Campinas,SP,2024-08-09
+1523,Bruno Silva,71.0,São Paulo,SP,2023-08-25
+1524,Daniel Souza,62.0,Rio de Janeiro,RJ,2025-04-18
+1525,Carla Silva,61.0,São Paulo,SP,2023-03-07
+1526,Gabriel Santos,41.0,Curitiba,PR,2023-03-11
+1527,Juliana Santos,58.0,Belo Horizonte,MG,2025-03-19
+1528,Daniel Costa,18.0,Rio de Janeiro,RJ,2024-03-22
+1529,Juliana Costa,68.0,São Paulo,SP,2024-02-20
+1530,Ana Pereira,60.0, sao paulo ,BA,2024-06-15
+1531,Carla Santos,72.0,Rio de Janeiro,RJ,2024-03-16
+1532,Bruno Souza,39.0,Rio de Janeiro,RJ,2025-01-07
+1533,Carla Silva,40.0,São Paulo,SP,2025-08-03
+1534,Carla Oliveira,73.0,Rio de Janeiro,RJ,2024-04-08
+1535,Fernanda Costa,71.0,Salvador,BA,2025-07-09
+1536,Carla Oliveira,36.0,Campinas,SP,2024-01-31
+1537,Carla Souza,35.0,Rio de Janeiro,RJ,2024-12-11
+1538,Lucas Costa,29.0,Campinas,SP,2024-07-04
+1539,Daniel Oliveira,72.0,Salvador,BA,2024-10-18
+1540,Bruno Souza,45.0,São Paulo,SP,2024-07-10
+1541,Lucas Silva,45.0,Belo Horizonte,MG,2024-01-30
+1542,Lucas Souza,77.0,Rio de Janeiro,RJ,2023-11-22
+1543,Daniel Pereira,76.0,Belo Horizonte,MG,2025-06-11
+1544,Daniel Costa,50.0,Salvador,BA,2025-07-07
+1545,Ana Santos,36.0,Rio de Janeiro,RJ,2023-04-01
+1546,Daniel Silva,45.0,Campinas,SP,2025-01-19
+1547,Fernanda Oliveira,76.0,Curitiba,PR,2023-03-11
+1548,Fernanda Costa,69.0,Belo Horizonte,MG,2023-06-15
+1549,Lucas Santos,78.0,Rio de Janeiro,RJ,2024-10-03
+1550,Juliana Souza,79.0, sao paulo ,MG,2023-08-02
+1551,Ana Santos,66.0,Rio de Janeiro,RJ,2025-05-01
+1552,Juliana Costa,54.0,São Paulo,SP,2024-08-23
+1553,Juliana Costa,43.0,Campinas,SP,2023-12-01
+1554,Lucas Pereira,52.0,Belo Horizonte,MG,2025-02-02
+1555,Gabriel Pereira,51.0,Curitiba,PR,2024-01-04
+1556,Lucas Santos,52.0,Curitiba,PR,2025-05-10
+1557,Bruno Souza,57.0,Salvador,BA,2024-08-06
+1558,Bruno Santos,33.0,Rio de Janeiro,RJ,2024-11-07
+1559,Daniel Costa,55.0,Belo Horizonte,MG,2023-02-18
+1560,Daniel Costa,30.0,Salvador,BA,2023-02-21
+1561,Gabriel Oliveira,79.0,Belo Horizonte,MG,2023-10-16
+1562,Daniel Pereira,40.0,Rio de Janeiro,RJ,2025-02-28
+1563,Bruno Oliveira,77.0,Curitiba,PR,2024-09-17
+1564,Juliana Silva,71.0,São Paulo,SP,2023-08-27
+1565,Lucas Costa,39.0,Curitiba,PR,2023-05-13
+1566,Carla Oliveira,33.0,Salvador,BA,2025-02-24
+1567,Fernanda Santos,45.0,Campinas,SP,2023-06-15
+1568,Carla Pereira,65.0,São Paulo,SP,2024-01-09
+1569,Carla Pereira,52.0,Salvador,BA,2024-01-08
+1570,Bruno Souza,77.0,Rio de Janeiro,RJ,2025-03-15
+1571,Carla Santos,62.0,São Paulo,SP,2024-04-22
+1572,Lucas Souza,63.0,Salvador,BA,2025-01-24
+1573,Gabriel Oliveira,25.0,Rio de Janeiro,RJ,2024-04-23
+1574,Ana Silva,61.0,Curitiba,PR,2025-04-11
+1575,Daniel Santos,72.0,Campinas,SP,2024-10-11
+1576,Ana Santos,72.0,Rio de Janeiro,RJ,2024-08-13
+1577,Juliana Santos,39.0,Belo Horizonte,MG,2024-11-12
+1578,Lucas Souza,38.0,Rio de Janeiro,RJ,2024-09-26
+1579,Lucas Oliveira,43.0,Rio de Janeiro,RJ,2024-11-18
+1580,Fernanda Santos,57.0,Campinas,SP,2023-10-27
+1581,Lucas Santos,,Belo Horizonte,MG,2023-03-23
+1582,Daniel Pereira,42.0,Salvador,BA,2023-03-28
+1583,Lucas Silva,58.0,Salvador,BA,2023-08-13
+1584,Carla Pereira,18.0,Rio de Janeiro,RJ,2023-01-16
+1585,Fernanda Pereira,23.0,Belo Horizonte,MG,2025-04-01
+1586,Daniel Silva,40.0,Belo Horizonte,MG,2023-12-24
+1587,Gabriel Oliveira,120.0,Campinas,SP,2023-06-12
+1588,Gabriel Pereira,40.0,Curitiba,PR,2024-09-01
+1589,Gabriel Oliveira,60.0,Salvador,BA,2024-10-29
+1590,Gabriel Pereira,60.0,Campinas,SP,2024-05-28
+1591,Carla Costa,40.0,São Paulo,SP,2023-12-16
+1592,Lucas Silva,49.0,Salvador,BA,2025-06-27
+1593,Ana Pereira,47.0,Campinas,SP,2024-11-11
+1594,Daniel Costa,30.0,Salvador,BA,2024-04-08
+1595,Carla Souza,60.0,Curitiba,PR,2025-04-06
+1596,Gabriel Costa,35.0,São Paulo,SP,2025-04-16
+1597,Juliana Santos,40.0,Curitiba,PR,2024-01-10
+1598,Lucas Pereira,32.0,São Paulo,SP,2023-04-02
+1599,Ana Costa,50.0,Rio de Janeiro,RJ,2023-06-30
+1600,Juliana Oliveira,38.0,Campinas,SP,2025-01-12
+1601,Fernanda Souza,74.0,São Paulo,SP,2023-10-28
+1602,Juliana Pereira,56.0,Curitiba,PR,2024-10-21
+1603,Fernanda Santos,40.0,Salvador,BA,2025-03-02
+1604,Fernanda Costa,44.0,São Paulo,SP,2023-07-08
+1605,Gabriel Souza,62.0,Campinas,SP,2025-05-08
+1606,Fernanda Pereira,61.0,São Paulo,SP,2025-05-11
+1607,Bruno Souza,35.0,Belo Horizonte,MG,2023-11-10
+1608,Daniel Santos,41.0,Salvador,BA,2024-05-07
+1609,Daniel Costa,68.0,Campinas,SP,2025-07-11
+1610,Gabriel Souza,64.0,Campinas,SP,2025-07-10
+1611,Bruno Souza,57.0, sao paulo ,RJ,2023-05-08
+1612,Juliana Silva,68.0,Curitiba,PR,2024-06-02
+1613,Carla Souza,59.0,Rio de Janeiro,RJ,2024-03-01
+1614,Juliana Silva,24.0,Campinas,SP,2024-07-12
+1615,Lucas Costa,67.0,Salvador,BA,2024-07-18
+1616,Carla Pereira,65.0,São Paulo,SP,2023-07-06
+1617,Fernanda Pereira,37.0,São Paulo,SP,2024-07-03
+1618,Ana Costa,44.0,Salvador,BA,2024-03-28
+1619,Carla Costa,23.0,Campinas,SP,2024-04-15
+1620,Ana Oliveira,44.0,São Paulo,SP,2025-01-07
+1621,Daniel Costa,26.0,São Paulo,SP,2024-07-18
+1622,Ana Souza,70.0,São Paulo,SP,2025-06-29
+1623,Daniel Pereira,62.0,Curitiba,PR,2023-08-12
+1624,Bruno Santos,74.0,Curitiba,PR,2023-06-03
+1625,Bruno Pereira,48.0,Belo Horizonte,MG,2024-07-13
+1626,Gabriel Silva,38.0,Rio de Janeiro,RJ,2023-12-17
+1627,Gabriel Pereira,43.0,Salvador,BA,2023-05-27
+1628,Fernanda Oliveira,57.0,Salvador,BA,2025-06-23
+1629,Carla Costa,65.0,Salvador,RJ,2024-07-29
+1630,Fernanda Costa,62.0,Belo Horizonte,MG,2023-12-15
+1631,Daniel Pereira,30.0,Curitiba,PR,2023-07-01
+1632,Fernanda Santos,66.0,Campinas,SP,2024-09-28
+1633,Ana Santos,40.0,Campinas,SP,2023-06-28
+1634,Daniel Oliveira,37.0,Belo Horizonte,MG,2023-02-08
+1635,Gabriel Silva,54.0,Campinas,SP,2025-02-10
+1636,Bruno Pereira,71.0,Salvador,BA,2025-06-12
+1637,Gabriel Costa,70.0,Rio de Janeiro,RJ,2023-01-03
+1638,Carla Pereira,45.0,São Paulo,SP,2023-03-05
+1639,Daniel Oliveira,34.0,Curitiba,PR,2023-01-29
+1640,Daniel Souza,,Curitiba,PR,2024-01-07
+1641,Ana Souza,58.0,Belo Horizonte,MG,2024-06-06
+1642,Carla Oliveira,19.0,rio de janeiro,PR,2023-04-07
+1643,Bruno Costa,42.0,Salvador,BA,2025-05-19
+1644,Juliana Oliveira,75.0,Campinas,SP,2024-03-17
+1645,Daniel Costa,67.0,Salvador,BA,2023-07-22
+1646,Daniel Santos,58.0,Belo Horizonte,MG,2024-02-15
+1647,Ana Oliveira,23.0,Salvador,BA,2023-01-21
+1648,Fernanda Costa,28.0,Campinas,SP,2024-07-04
+1649,Lucas Oliveira,74.0,Rio de Janeiro,RJ,2025-01-04
+1650,Bruno Oliveira,,Belo Horizonte,MG,2023-04-12
+1651,Gabriel Costa,55.0,Rio de Janeiro,RJ,2023-02-15
+1652,Carla Costa,23.0,São Paulo,SP,2023-03-07
+1653,Daniel Silva,62.0,Rio de Janeiro,RJ,2024-08-25
+1654,Daniel Oliveira,28.0,São Paulo,SP,2023-06-13
+1655,Gabriel Souza,31.0,São Paulo,SP,2023-04-21
+1656,Bruno Oliveira,19.0,Rio de Janeiro,RJ,2023-12-04
+1657,Lucas Oliveira,57.0,Belo Horizonte,MG,2023-05-03
+1658,Fernanda Costa,20.0,Campinas,SP,2024-12-05
+1659,Daniel Oliveira,72.0,Salvador,BA,2024-03-22
+1660,Lucas Pereira,70.0,Salvador,BA,2024-09-02
+1661,Bruno Oliveira,52.0,Campinas,SP,2023-10-18
+1662,Gabriel Pereira,50.0,São Paulo,SP,2024-11-01
+1663,Ana Souza,41.0,São Paulo,SP,2024-02-16
+1664,Fernanda Costa,36.0,Belo Horizonte,MG,2024-09-06
+1665,Carla Oliveira,35.0,Curitiba,PR,2025-06-15
+1666,Daniel Pereira,66.0,Rio de Janeiro,RJ,2023-10-08
+1667,Bruno Pereira,69.0,São Paulo,SP,2023-02-12
+1668,Ana Pereira,78.0,Salvador,BA,2024-04-30
+1669,Carla Santos,41.0,Belo Horizonte,MG,2024-08-18
+1670,Juliana Silva,62.0,Rio de Janeiro,RJ,2024-12-03
+1671,Bruno Souza,52.0,Belo Horizonte,MG,2023-02-20
+1672,Bruno Oliveira,79.0,Rio de Janeiro,RJ,2025-06-16
+1673,Carla Santos,18.0,Rio de Janeiro,RJ,2023-07-29
+1674,Ana Oliveira,53.0,Campinas,SP,2023-05-06
+1675,Juliana Oliveira,,São Paulo,SP,2024-05-06
+1676,Lucas Costa,62.0,Belo Horizonte,MG,2024-05-23
+1677,Lucas Costa,66.0,Belo Horizonte,MG,2024-08-03
+1678,Gabriel Costa,77.0,Campinas,SP,2025-02-15
+1679,Ana Santos,79.0,Salvador,BA,2023-09-15
+1680,Fernanda Oliveira,60.0,Salvador,BA,2025-07-18
+1681,Daniel Silva,51.0,São Paulo,SP,2023-07-07
+1682,Carla Souza,42.0,São Paulo,SP,2023-08-18
+1683,Gabriel Costa,33.0,Curitiba,PR,2023-07-08
+1684,Juliana Costa,51.0,Campinas,SP,2024-02-19
+1685,Carla Oliveira,46.0,Salvador,XX,2023-01-10
+1686,Carla Oliveira,36.0,Rio de Janeiro,RJ,2023-04-24
+1687,Ana Santos,40.0,Belo Horizonte,MG,2023-03-17
+1688,Daniel Santos,36.0,São Paulo,SP,2024-11-06
+1689,Fernanda Costa,42.0,Belo Horizonte,MG,2024-05-16
+1690,Lucas Oliveira,33.0,Belo Horizonte,MG,2023-03-26
+1691,Bruno Silva,71.0,Curitiba,PR,2023-02-18
+1692,Bruno Souza,68.0,Salvador,BA,2024-05-09
+1693,Carla Oliveira,26.0,São Paulo,SP,2025-04-17
+1694,Lucas Oliveira,18.0,Belo Horizonte,MG,2024-11-19
+1695,Lucas Pereira,59.0,São Paulo,SP,2024-01-22
+1696,Daniel Santos,36.0,Rio de Janeiro,RJ,2024-01-24
+1697,Juliana Souza,50.0,Curitiba,PR,2023-08-06
+1698,Juliana Costa,51.0,Rio de Janeiro,RJ,2024-12-01
+1699,Gabriel Oliveira,33.0,São Paulo,SP,2023-12-12
+1700,Ana Costa,61.0,São Paulo,SP,2023-08-18
+1701,Daniel Oliveira,57.0,Salvador,BA,2023-09-12
+1702,Daniel Costa,72.0,Belo Horizonte,MG,2023-08-24
+1703,Ana Souza,35.0,Belo Horizonte,MG,2023-01-26
+1704,Lucas Santos,51.0,Rio de Janeiro,XX,2024-08-06
+1705,Juliana Souza,42.0,Curitiba,PR,2023-09-18
+1706,Juliana Pereira,78.0,Campinas,SP,2025-02-04
+1707,Lucas Silva,62.0,Belo Horizonte,MG,2023-09-28
+1708,Juliana Santos,23.0,Salvador,BA,2023-05-03
+1709,Carla Souza,38.0,Rio de Janeiro,RJ,2024-10-17
+1710,Daniel Pereira,75.0,Rio de Janeiro,RJ,2023-09-14
+1711,Bruno Silva,23.0,Campinas,SP,2024-10-17
+1712,Ana Pereira,49.0,Salvador,BA,2024-02-25
+1713,Juliana Oliveira,58.0,Curitiba,PR,2023-09-16
+1714,Gabriel Oliveira,65.0,Salvador,BA,2025-08-05
+1715,Juliana Costa,60.0,Curitiba,PR,2023-02-16
+1716,Juliana Santos,56.0,Salvador,XX,2025-05-12
+1717,Fernanda Oliveira,48.0,Salvador,BA,2024-06-08
+1718,Carla Pereira,59.0,São Paulo,SP,2025-06-06
+1719,Ana Santos,27.0,Rio de Janeiro,RJ,2023-07-27
+1720,Fernanda Oliveira,47.0,Salvador,BA,2023-11-07
+1721,Fernanda Costa,74.0,Campinas,SP,2025-01-16
+1722,Gabriel Souza,69.0,Salvador,BA,2023-05-29
+1723,Daniel Costa,35.0,Belo Horizonte,MG,2025-04-13
+1724,Gabriel Silva,77.0,Rio de Janeiro,RJ,2024-03-13
+1725,Daniel Oliveira,41.0,Belo Horizonte,MG,2023-06-04
+1726,Daniel Silva,69.0,Rio de Janeiro,RJ,2024-11-08
+1727,Ana Silva,78.0,Belo Horizonte,MG,2023-03-31
+1728,Juliana Pereira,26.0,Salvador,BA,2024-11-28
+1729,Ana Santos,48.0,Salvador,XX,2025-04-09
+1730,Carla Pereira,32.0,São Paulo,SP,2023-12-24
+1731,Daniel Oliveira,21.0,Campinas,SP,2023-06-23
+1732,Fernanda Silva,57.0,Belo Horizonte,MG,2023-08-05
+1733,Juliana Souza,26.0,SP,PR,2025-06-25
+1734,Bruno Silva,62.0,São Paulo,SP,2024-03-31
+1735,Carla Souza,26.0,Belo Horizonte,MG,2025-02-14
+1736,Ana Pereira,43.0,Belo Horizonte,MG,2024-08-31
+1737,Gabriel Pereira,21.0,São Paulo,SP,2024-09-20
+1738,Carla Santos,34.0,Salvador,BA,2023-07-18
+1739,Carla Silva,33.0,Belo Horizonte,MG,2025-04-11
+1740,Juliana Costa,32.0,Salvador,BA,2024-04-30
+1741,Carla Pereira,52.0,São Paulo,SP,2024-06-16
+1742,Carla Pereira,74.0,Salvador,BA,2023-07-19
+1743,Bruno Santos,69.0,Rio de Janeiro,RJ,2024-01-06
+1744,Lucas Souza,22.0,Curitiba,PR,2025-05-02
+1745,Gabriel Santos,72.0,Belo Horizonte,MG,2024-03-23
+1746,Gabriel Silva,22.0,Campinas,SP,2023-09-05
+1747,Gabriel Oliveira,37.0,Curitiba,PR,2025-02-26
+1748,Daniel Oliveira,32.0,Salvador,BA,2023-09-21
+1749,Fernanda Souza,35.0,Belo Horizonte,MG,2023-02-27
+1750,Lucas Pereira,64.0,Salvador,BA,2023-10-29
+1751,Gabriel Souza,19.0,Rio de Janeiro,RJ,2023-01-31
+1752,Carla Pereira,46.0,São Paulo,SP,2024-05-12
+1753,Carla Pereira,30.0,Belo Horizonte,MG,2023-09-06
+1754,Gabriel Oliveira,21.0,Rio de Janeiro,RJ,2024-08-27
+1755,Juliana Souza,59.0,Rio de Janeiro,RJ,2025-02-15
+1756,Gabriel Santos,62.0,Belo Horizonte,MG,2023-09-28
+1757,Carla Pereira,27.0,Salvador,BA,2024-08-28
+1758,Daniel Costa,78.0,Campinas,XX,2024-10-27
+1759,Ana Costa,48.0,Rio de Janeiro,RJ,2024-01-29
+1760,Ana Santos,58.0,Curitiba,PR,2025-03-07
+1761,Lucas Costa,25.0,Rio de Janeiro,RJ,2024-05-16
+1762,Lucas Silva,20.0,Campinas,SP,2024-08-14
+1763,Gabriel Pereira,65.0,Salvador,BA,2025-03-14
+1764,Bruno Santos,63.0,Salvador,BA,2023-03-25
+1765,Gabriel Souza,26.0,Curitiba,PR,2023-12-31
+1766,Juliana Pereira,47.0,Rio de Janeiro,RJ,2025-06-04
+1767,Gabriel Santos,70.0,Salvador,BA,2024-07-02
+1768,Lucas Oliveira,28.0,Campinas,SP,2023-12-08
+1769,Ana Souza,52.0,Belo Horizonte,MG,2025-04-18
+1770,Carla Oliveira,54.0,São Paulo,SP,2024-02-11
+1771,Gabriel Pereira,78.0,São Paulo,SP,2024-02-29
+1772,Carla Souza,59.0,São Paulo,SP,2025-01-13
+1773,Carla Costa,30.0,Rio de Janeiro,RJ,2023-04-03
+1774,Bruno Santos,53.0,Curitiba,PR,2025-04-27
+1775,Carla Pereira,73.0,Salvador,BA,2024-09-05
+1776,Ana Silva,30.0,Belo Horizonte,MG,2024-02-16
+1777,Daniel Souza,29.0,Campinas,SP,2024-03-07
+1778,Daniel Souza,54.0,Belo Horizonte,MG,2024-11-08
+1779,Fernanda Pereira,27.0,Campinas,SP,2023-06-08
+1780,Juliana Pereira,77.0,Rio de Janeiro,RJ,2023-01-14
+1781,Gabriel Oliveira,73.0,São Paulo,SP,2024-01-08
+1782,Juliana Costa,26.0,Rio de Janeiro,RJ,2023-08-13
+1783,Ana Oliveira,69.0,Curitiba,PR,2024-05-19
+1784,Carla Oliveira,24.0,Curitiba,PR,2023-03-14
+1785,Daniel Costa,19.0,Campinas,SP,2023-09-06
+1786,Juliana Silva,71.0,Salvador,BA,2024-05-25
+1787,Ana Oliveira,73.0,Salvador,BA,2024-08-25
+1788,Daniel Oliveira,77.0,Campinas,SP,2023-08-04
+1789,Carla Souza,40.0,Curitiba,PR,2024-08-24
+1790,Juliana Costa,56.0,Curitiba,PR,2024-06-24
+1791,Daniel Santos,57.0,Curitiba,PR,2025-08-04
+1792,Gabriel Silva,56.0,Rio de Janeiro,RJ,2025-03-27
+1793,Lucas Silva,38.0,Curitiba,PR,2025-07-27
+1794,Gabriel Costa,40.0,Belo Horizonte,MG,2023-08-08
+1795,Fernanda Pereira,46.0,São Paulo,SP,2025-04-19
+1796,Fernanda Pereira,31.0,Curitiba,PR,2024-12-27
+1797,Daniel Souza,43.0,Campinas,SP,2023-08-09
+1798,Lucas Souza,68.0,São Paulo,SP,2024-01-24
+1799,Ana Costa,22.0,Rio de Janeiro,RJ,2024-07-07
+1800,Gabriel Souza,72.0,Campinas,SP,2024-10-08
+1801,Ana Silva,48.0,São Paulo,SP,2023-02-11
+1802,Lucas Silva,42.0,Campinas,SP,2024-11-06
+1803,Ana Santos,48.0,Rio de Janeiro,RJ,2025-05-22
+1804,Lucas Pereira,67.0,Belo Horizonte,MG,2023-10-10
+1805,Daniel Costa,37.0,Rio de Janeiro,RJ,2023-02-27
+1806,Ana Oliveira,61.0,Rio de Janeiro,RJ,2025-03-24
+1807,Gabriel Pereira,72.0,Campinas,SP,2025-04-13
+1808,Carla Oliveira,34.0,Salvador,BA,2024-06-20
+1809,Fernanda Santos,62.0,Curitiba,PR,2023-03-14
+1810,Carla Santos,19.0,Curitiba,PR,2025-06-03
+1811,Ana Souza,42.0,Belo Horizonte,MG,2025-07-11
+1812,Carla Santos,30.0,Belo Horizonte,MG,2023-05-09
+1813,Gabriel Santos,75.0,Curitiba,PR,2024-08-21
+1814,Gabriel Oliveira,56.0,Salvador,BA,2025-04-21
+1815,Ana Souza,45.0,Curitiba,PR,2024-03-01
+1816,Daniel Santos,59.0,Salvador,BA,2025-08-05
+1817,Carla Pereira,72.0,Belo Horizonte,MG,2024-10-26
+1818,Daniel Santos,23.0,São Paulo,SP,2024-11-24
+1819,Daniel Souza,20.0,Campinas,SP,2023-05-05
+1820,Lucas Costa,75.0,Belo Horizonte,MG,2023-03-08
+1821,Bruno Souza,52.0,Belo Horizonte,MG,2023-01-06
+1822,Ana Oliveira,35.0,Rio de Janeiro,RJ,2024-09-28
+1823,Fernanda Costa,28.0,Rio de Janeiro,RJ,2023-11-10
+1824,Gabriel Pereira,71.0,Rio de Janeiro,RJ,2023-11-22
+1825,Gabriel Silva,37.0,Campinas,SP,2024-07-18
+1826,Ana Souza,22.0,Rio de Janeiro,RJ,2024-07-31
+1827,Lucas Oliveira,36.0,Salvador,BA,2025-04-05
+1828,Juliana Pereira,39.0,Curitiba,PR,2024-05-20
+1829,Juliana Costa,76.0,São Paulo,SP,2023-03-23
+1830,Juliana Pereira,77.0,Belo Horizonte,MG,2024-08-21
+1831,Lucas Souza,36.0,Salvador,BA,2023-01-02
+1832,Fernanda Santos,79.0,São Paulo,SP,2023-07-23
+1833,Gabriel Souza,-5.0,Salvador,BA,2024-10-23
+1834,Ana Silva,79.0,Salvador,BA,2025-03-15
+1835,Lucas Souza,33.0,Belo Horizonte,MG,2024-02-08
+1836,Gabriel Costa,41.0,Curitiba,PR,2023-04-13
+1837,Daniel Costa,58.0,Rio de Janeiro,RJ,2024-06-19
+1838,Carla Souza,21.0,Campinas,SP,2024-01-03
+1839,Carla Costa,32.0,Curitiba,PR,2023-07-31
+1840,Lucas Santos,42.0,Campinas,SP,2024-07-30
+1841,Gabriel Pereira,61.0,Belo Horizonte,MG,2023-07-28
+1842,Bruno Souza,72.0,Belo Horizonte,MG,2025-02-01
+1843,Fernanda Santos,52.0,Belo Horizonte,MG,2025-06-15
+1844,Juliana Pereira,72.0,rio de janeiro,SP,2023-04-27
+1845,Fernanda Pereira,31.0,Campinas,SP,2024-09-19
+1846,Fernanda Santos,66.0,Curitiba,PR,2025-01-18
+1847,Lucas Oliveira,36.0,Curitiba,PR,2024-04-22
+1848,Daniel Souza,55.0,Salvador,BA,2023-04-15
+1849,Fernanda Pereira,53.0,Salvador,BA,2024-05-09
+1850,Carla Pereira,24.0,Salvador,BA,2025-02-09
+1851,Daniel Costa,47.0,Belo Horizonte,MG,2023-02-15
+1852,Ana Pereira,,Curitiba,PR,2025-04-02
+1853,Fernanda Santos,66.0,Campinas,SP,2023-11-27
+1854,Fernanda Pereira,42.0,Belo Horizonte,MG,2023-08-04
+1855,Ana Oliveira,33.0,São Paulo,SP,2024-05-06
+1856,Fernanda Souza,64.0,Salvador,BA,2025-03-23
+1857,Ana Souza,71.0,Belo Horizonte,MG,2025-07-10
+1858,Daniel Pereira,57.0,Belo Horizonte,MG,2025-04-24
+1859,Carla Silva,68.0,São Paulo,SP,2024-03-24
+1860,Ana Silva,25.0,Rio de Janeiro,RJ,2024-06-19
+1861,Bruno Santos,35.0,Curitiba,PR,2024-05-25
+1862,Lucas Silva,45.0,Campinas,SP,2024-04-02
+1863,Lucas Santos,33.0,Rio de Janeiro,RJ,2024-06-30
+1864,Ana Costa,69.0,Salvador,BA,2024-06-19
+1865,Lucas Santos,36.0,Belo Horizonte,MG,2024-06-23
+1866,Fernanda Silva,59.0,São Paulo,SP,2024-04-28
+1867,Juliana Pereira,34.0,São Paulo,SP,2023-01-16
+1868,Juliana Costa,62.0,Curitiba,PR,2024-07-24
+1869,Lucas Silva,30.0,Rio de Janeiro,RJ,2023-08-31
+1870,Daniel Santos,24.0,Curitiba,PR,2025-08-07
+1871,Gabriel Oliveira,44.0,Belo Horizonte,MG,2023-07-26
+1872,Daniel Souza,27.0,Curitiba,PR,2025-06-30
+1873,Gabriel Silva,51.0,Campinas,SP,2023-09-28
+1874,Juliana Santos,53.0,São Paulo,SP,2025-01-30
+1875,Juliana Costa,42.0,São Paulo,SP,2025-02-17
+1876,Ana Silva,,Salvador,BA,2024-12-05
+1877,Carla Silva,41.0,Salvador,BA,2025-04-26
+1878,Bruno Souza,35.0, sao paulo ,MG,2024-12-30
+1879,Daniel Santos,40.0,Campinas,SP,2023-04-25
+1880,Fernanda Oliveira,23.0,Rio de Janeiro,RJ,2024-08-02
+1881,Gabriel Costa,46.0,Curitiba,PR,2023-10-26
+1882,Lucas Santos,79.0,Belo Horizonte,MG,2025-04-16
+1883,Fernanda Costa,42.0,Salvador,BA,2024-04-27
+1884,Carla Silva,72.0,Curitiba,PR,2024-02-01
+1885,Gabriel Souza,34.0,Salvador,BA,2024-01-29
+1886,Daniel Souza,63.0,Curitiba,PR,2023-03-16
+1887,Ana Pereira,41.0,Rio de Janeiro,RJ,2024-04-26
+1888,Fernanda Oliveira,150.0,Belo Horizonte,MG,2023-04-13
+1889,Carla Souza,43.0,Curitiba,PR,2023-10-24
+1890,Daniel Silva,68.0,Campinas,SP,2023-06-27
+1891,Juliana Oliveira,79.0,São Paulo,SP,2023-08-03
+1892,Juliana Santos,51.0,Campinas,SP,2023-11-11
+1893,Daniel Souza,45.0,Campinas,SP,2023-02-08
+1894,Daniel Oliveira,20.0,São Paulo,SP,2023-09-16
+1895,Daniel Silva,28.0,Campinas,SP,2024-12-16
+1896,Gabriel Pereira,55.0,Curitiba,PR,2023-01-07
+1897,Daniel Costa,78.0,Curitiba,PR,2023-02-18
+1898,Fernanda Costa,31.0,Curitiba,PR,2024-06-21
+1899,Carla Silva,68.0,São Paulo,SP,2023-06-10
+1900,Gabriel Silva,43.0,Campinas,SP,2025-05-18
+1901,Daniel Costa,65.0,São Paulo,SP,2023-06-25
+1902,Bruno Pereira,38.0,Curitiba,PR,2024-08-13
+1903,Lucas Oliveira,71.0,Campinas,SP,2023-01-02
+1904,Bruno Costa,73.0,Campinas,SP,2025-06-13
+1905,Carla Silva,56.0,Salvador,BA,2024-03-30
+1906,Juliana Souza,47.0,Salvador,BA,2025-07-16
+1907,Ana Santos,76.0,Rio de Janeiro,RJ,2024-10-05
+1908,Ana Pereira,25.0,Belo Horizonte,MG,2023-10-03
+1909,Lucas Pereira,68.0,Salvador,BA,2024-05-12
+1910,Juliana Souza,37.0,São Paulo,SP,2024-09-20
+1911,Gabriel Souza,65.0,Salvador,BA,2024-11-06
+1912,Gabriel Silva,49.0,Rio de Janeiro,RJ,2025-03-10
+1913,Gabriel Costa,39.0,Campinas,SP,2023-01-28
+1914,Ana Oliveira,76.0,Rio de Janeiro,RJ,2023-11-29
+1915,Bruno Pereira,24.0,Campinas,SP,2023-01-01
+1916,Ana Pereira,26.0,Campinas,SP,2023-07-07
+1917,Fernanda Souza,62.0,Belo Horizonte,,2023-02-25
+1918,Daniel Costa,18.0,Salvador,BA,2024-06-30
+1919,Gabriel Pereira,46.0,São Paulo,SP,2023-04-22
+1920,Bruno Oliveira,25.0,São Paulo,SP,2025-03-08
+1921,Carla Souza,73.0,Curitiba,PR,2023-11-06
+1922,Lucas Oliveira,71.0,Campinas,SP,2023-02-05
+1923,Carla Costa,21.0,São Paulo,SP,2024-03-14
+1924,Daniel Pereira,52.0,Belo Horizonte,MG,2024-12-29
+1925,Bruno Santos,76.0,Campinas,SP,2024-08-14
+1926,Ana Pereira,20.0,Belo Horizonte,MG,2025-04-05
+1927,Ana Costa,71.0,São Paulo,SP,2024-08-17
+1928,Fernanda Pereira,62.0,São Paulo,SP,2024-07-30
+1929,Fernanda Pereira,57.0,Curitiba,PR,2023-11-21
+1930,Ana Silva,24.0,São Paulo,SP,2024-10-01
+1931,Carla Pereira,44.0,Campinas,SP,2023-11-03
+1932,Lucas Pereira,18.0,Campinas,SP,2024-06-17
+1933,Gabriel Oliveira,44.0,Campinas,SP,2024-12-28
+1934,Carla Santos,33.0,Curitiba,PR,2024-09-10
+1935,Lucas Oliveira,55.0,Curitiba,PR,2023-04-19
+1936,Fernanda Oliveira,24.0,São Paulo,SP,2024-01-07
+1937,Daniel Souza,61.0,Rio de Janeiro,RJ,2023-12-23
+1938,Lucas Silva,40.0,Rio de Janeiro,RJ,2023-06-30
+1939,Ana Oliveira,,Curitiba,PR,2023-12-22
+1940,Fernanda Costa,76.0,São Paulo,SP,2024-11-06
+1941,Fernanda Costa,28.0,Rio de Janeiro,RJ,2023-03-09
+1942,Gabriel Pereira,59.0,São Paulo,SP,2023-10-19
+1943,Ana Souza,70.0,São Paulo,SP,2024-11-22
+1944,Gabriel Silva,50.0,São Paulo,SP,2023-06-30
+1945,Ana Silva,67.0,Salvador,BA,2024-04-10
+1946,Gabriel Pereira,53.0,Campinas,SP,2024-03-09
+1947,Lucas Costa,54.0,São Paulo,SP,2024-04-08
+1948,Carla Santos,58.0,Salvador,BA,2024-11-11
+1949,Daniel Souza,76.0,Curitiba,PR,2025-07-02
+1950,Daniel Pereira,34.0,Rio de Janeiro,RJ,2024-06-17
+1951,Ana Souza,52.0,Campinas,SP,2023-03-07
+1952,Bruno Costa,65.0,Rio de Janeiro,RJ,2023-01-21
+1953,Juliana Costa,22.0,Campinas,SP,2024-09-03
+1954,Fernanda Santos,65.0,Rio de Janeiro,RJ,2024-01-19
+1955,Fernanda Santos,49.0,Campinas,SP,2025-03-22
+1956,Ana Silva,20.0,Rio de Janeiro,RJ,2024-09-06
+1957,Lucas Souza,69.0,Rio de Janeiro,RJ,2024-07-12
+1958,Gabriel Souza,64.0,Rio de Janeiro,RJ,2023-02-08
+1959,Bruno Costa,79.0,Rio de Janeiro,RJ,2023-10-12
+1960,Carla Silva,52.0,Curitiba,PR,2025-04-01
+1961,Gabriel Pereira,69.0,São Paulo,SP,2024-08-24
+1962,Gabriel Souza,31.0,Belo Horizonte,MG,2024-08-19
+1963,Ana Silva,65.0,Salvador,BA,2025-02-23
+1964,Ana Silva,78.0,Belo Horizonte,MG,2023-12-02
+1965,Lucas Costa,78.0,Belo Horizonte,MG,2023-07-07
+1966,Fernanda Silva,48.0,Campinas,SP,2024-11-01
+1967,Ana Santos,48.0,São Paulo,SP,2023-08-31
+1968,Ana Santos,34.0,Campinas,SP,2023-03-14
+1969,Ana Oliveira,77.0,São Paulo,SP,2024-04-23
+1970,Lucas Costa,41.0,São Paulo,,2024-07-14
+1971,Fernanda Pereira,69.0,Rio de Janeiro,RJ,2023-04-11
+1972,Carla Oliveira,40.0,Curitiba,PR,2024-05-28
+1973,Carla Santos,35.0,Rio de Janeiro,RJ,2025-01-25
+1974,Juliana Oliveira,67.0,Curitiba,PR,2023-06-25
+1975,Juliana Costa,71.0, sao paulo ,SP,2023-08-26
+1976,Ana Costa,31.0,Curitiba,PR,2025-06-28
+1977,Juliana Silva,67.0,Campinas,SP,2023-02-28
+1978,Fernanda Souza,32.0,Belo Horizonte,MG,2025-05-14
+1979,Lucas Silva,32.0,Sao Paulo,MG,2023-04-09
+1980,Carla Costa,23.0,Curitiba,PR,2025-05-20
+1981,Gabriel Santos,44.0,Curitiba,PR,2024-05-09
+1982,Carla Pereira,32.0,Campinas,SP,2025-08-04
+1983,Carla Santos,67.0,Rio de Janeiro,RJ,2024-05-28
+1984,Fernanda Silva,53.0,Campinas,SP,2025-01-24
+1985,Juliana Pereira,72.0,Rio de Janeiro,RJ,2023-10-24
+1986,Gabriel Costa,25.0,Belo Horizonte,MG,2023-07-30
+1987,Fernanda Santos,32.0,São Paulo,SP,2023-05-03
+1988,Ana Costa,20.0,Curitiba,PR,2023-08-17
+1989,Lucas Pereira,79.0,Rio de Janeiro,RJ,2024-08-16
+1990,Daniel Pereira,64.0,Campinas,SP,2024-10-17
+1991,Carla Santos,30.0,Belo Horizonte,MG,2024-01-23
+1992,Daniel Costa,58.0,Rio de Janeiro,RJ,2023-05-20
+1993,Lucas Oliveira,51.0,Campinas,SP,2024-06-24
+1994,Lucas Costa,41.0,Curitiba,PR,2024-01-26
+1995,Fernanda Pereira,57.0,Curitiba,PR,2023-09-27
+1996,Fernanda Costa,49.0,Salvador,BA,2025-01-28
+1997,Fernanda Silva,78.0,São Paulo,SP,2023-01-12
+1998,Daniel Oliveira,49.0,Salvador,BA,2025-05-16
+1999,Fernanda Souza,47.0,Belo Horizonte,MG,2024-01-24
+2000,Lucas Silva,69.0,Rio de Janeiro,RJ,2023-12-03
+675,Bruno Costa,53.0,Rio de Janeiro,RJ,2024-03-16
+1700,Ana Costa,61.0,São Paulo,SP,2023-08-18
+1283,Bruno Santos,35.0,Salvador,BA,2023-09-22
+1316,Ana Costa,20.0,Campinas,SP,2025-08-02
+1211,Carla Souza,71.0,Campinas,SP,2023-07-03
+1637,Gabriel Costa,70.0,Rio de Janeiro,RJ,2023-01-03
+614,Lucas Costa,57.0,Salvador,BA,2023-01-09
+448,Ana Souza,55.0,Curitiba,PR,2023-06-04
+1132,Ana Costa,66.0,Campinas,SP,2023-03-19
+809,Lucas Souza,45.0,Campinas,SP,2023-02-11
+1497,Juliana Costa,,Curitiba,PR,2023-04-30
+1469,Carla Oliveira,73.0,Curitiba,PR,2024-08-11
+1683,Gabriel Costa,33.0,Curitiba,PR,2023-07-08
+1150,Ana Silva,71.0,São Paulo,SP,2023-05-27
+443,Daniel Silva,74.0,Campinas,SP,2023-04-17

@@ -1,0 +1,9 @@
+﻿id_plano,nome_plano,categoria,valor_mensal
+1,Básico,Individual,19.9
+2,Standard,Individual,29.9
+3,Premium, individual ,49.9
+4,Família,Família,69.9
+5,Start,Individual,14.9
+6,Plus,Individual,
+7,Business,Empresarial,99.9
+8,Enterprise,Empresarial,199.9
